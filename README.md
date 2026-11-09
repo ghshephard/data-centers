@@ -10,7 +10,7 @@ real stay out permanently.
 The public site at [data-centers.vorga.org](https://data-centers.vorga.org) is a static
 copy of this data. "Mark as not real" there is remembered only in that
 browser. To change the published dataset, edit the data locally and redeploy
-with `npm run pages:build && npx wrangler pages deploy out --project-name data-centers`.
+with `bun run deploy`.
 
 ## Run it
 

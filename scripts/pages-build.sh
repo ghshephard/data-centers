@@ -16,4 +16,4 @@ cleanup() {
   fi
 }
 trap cleanup EXIT
-STATIC_EXPORT=1 NEXT_PUBLIC_DATA_SOURCE=static npx next build
+STATIC_EXPORT=1 NEXT_PUBLIC_DATA_SOURCE=static bunx next build

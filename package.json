@@ -10,6 +10,7 @@
     "import": "tsx scripts/import.ts",
     "export": "tsx scripts/export.ts",
     "pages:build": "bash scripts/pages-build.sh",
+    "deploy": "bash scripts/pages-build.sh && wrangler pages deploy out --branch main",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
@@ -28,6 +29,7 @@
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "tsx": "^4.19.2",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.2",
+    "wrangler": "^4.158.0"
   }
 }
