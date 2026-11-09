@@ -1,0 +1,9 @@
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+data/*.db
+data/*.db-*
+out/
+public/datacenters.json
+.api-hold/

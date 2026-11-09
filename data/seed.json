@@ -1,0 +1,5429 @@
+[
+  {
+    "name": "Fermi Project Matador",
+    "aliases": [
+      "Fermi America Amarillo"
+    ],
+    "operator": "Fermi America",
+    "owner": "Fermi America",
+    "tenant": null,
+    "city": "Amarillo",
+    "county": "Carson",
+    "state": "TX",
+    "lat": 35.20729,
+    "lon": -101.83712,
+    "capacity_mw": null,
+    "planned_mw": 17000,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": "2027",
+    "investment_usd": null,
+    "power_source": "Private gas, with nuclear and solar-plus-battery described as later parts of the mix",
+    "utility": null,
+    "acreage": 8400,
+    "notes": "Fermi's site describes Project Matador as a 17 GW private-power and AI campus on about 8,400 acres in the Texas Panhandle, next to the Pantex plant, with about 6 GW of 17 GW already permitted and nearly $1 billion of committed financing. The page says the first phase of construction is complete, steel is in the ground, and first power is targeted for 2026, while another line on the same page says 2027. The 17 GW figure is the company's power-campus target, not confirmed IT load. The pin is Amarillo, not the Carson County parcel.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://fermiamerica.com/",
+        "title": "Fermi America Project Matador",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Hyperion",
+    "aliases": [
+      "Richland Parish Data Center",
+      "Laidley"
+    ],
+    "operator": "Meta",
+    "owner": "Meta / Blue Owl",
+    "tenant": "Meta",
+    "city": "Holly Ridge",
+    "county": "Richland Parish",
+    "state": "LA",
+    "lat": 32.46764,
+    "lon": -91.62679,
+    "capacity_mw": null,
+    "planned_mw": 5000,
+    "status": "under_construction",
+    "announced_date": "2024-12",
+    "expected_completion": "2032",
+    "investment_usd": 50000000000,
+    "power_source": "Natural gas combined-cycle plants, with solar and battery plans",
+    "utility": "Entergy Louisiana",
+    "acreage": 2250,
+    "notes": "Campus on the former Franklin Farm site near Holly Ridge. The December 2024 announcement was $10 billion; Meta said in July 2026 it would reach 5 GW of compute and more than $50 billion. Entergy has approval for three gas plants and has applied for seven more. Coordinates are the Holly Ridge community.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://signaldata.org/la/data-centers/",
+        "title": "Data centers in Louisiana, SignalData",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://www.insidedeeptech.com/meta-hyperion-louisiana-ai-data-center-full-guide/",
+        "title": "Meta Hyperion Louisiana guide",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://www.enr.com/articles/62766-27b-meta-data-center-pushes-louisiana-toward-massive-power-expansion",
+        "title": "Meta Louisiana power expansion, ENR",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Homer City Energy Campus",
+    "aliases": [
+      "Homer City Redevelopment",
+      "Homer City data center"
+    ],
+    "operator": "Homer City Redevelopment",
+    "owner": "Homer City Redevelopment",
+    "tenant": null,
+    "city": "Homer City",
+    "county": "Indiana",
+    "state": "PA",
+    "lat": 40.5412,
+    "lon": -79.1606,
+    "capacity_mw": null,
+    "planned_mw": 4500,
+    "status": "announced",
+    "announced_date": "2025-04",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "On-site natural gas from seven GE Vernova turbines at the former coal plant",
+    "utility": null,
+    "acreage": 3200,
+    "notes": "Homer City Redevelopment and Kiewit announced on April 2, 2025 that the former coal plant would become a more than 3,200-acre natural-gas data center campus generating up to 4.5 GW, with first turbine deliveries expected in 2026. The 4.5 GW figure is generation capacity for the campus, and this release does not split how much serves data halls versus the grid. No tenant was named in the release. Coordinates are the Homer City town center, not the plant gate.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.gevernova.com/news/press-releases/homer-city-redevelopment-kiewit-announce-country-largest-natural-gas-powered-data-center-support-ai-hpc-demand",
+        "title": "Homer City Redevelopment and Kiewit announcement",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "DCIP DeSoto AI campus",
+    "aliases": [
+      "DCIP Group DeSoto"
+    ],
+    "operator": "DCIP Group",
+    "owner": null,
+    "tenant": null,
+    "city": "Arcadia",
+    "county": "DeSoto County",
+    "state": "FL",
+    "lat": 27.21588,
+    "lon": -81.85842,
+    "capacity_mw": null,
+    "planned_mw": 4000,
+    "status": "announced",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Locally approved DeSoto County campus listed at 4,000 MW and exempted from a later moratorium. No hyperscale tenant has been named. Coordinate is Arcadia and is approximate.",
+    "confidence": "low",
+    "sources": [
+      {
+        "url": "https://signaldata.org/fl/data-centers/",
+        "title": "Data centers in Florida, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Tract Caldwell Valley",
+    "aliases": [
+      "Caldwell Valley Technology Park"
+    ],
+    "operator": "Tract",
+    "owner": "Tract",
+    "tenant": null,
+    "city": "Lockhart",
+    "county": "Caldwell",
+    "state": "TX",
+    "lat": 29.88321,
+    "lon": -97.67363,
+    "capacity_mw": null,
+    "planned_mw": 4000,
+    "status": "planned",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": 2973,
+    "notes": "Tract's project index lists Caldwell Valley in Texas at 2,973 acres and 4,000 MW. The county is inferred from the project name. The pin is Lockhart, the Caldwell County seat, not a parcel survey. No tenant is named on the index page.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://www.tract.com/projects/",
+        "title": "Tract projects",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Project Camellia",
+    "aliases": [
+      "OpenAI Effingham County campus"
+    ],
+    "operator": "Octans GA LLC",
+    "owner": null,
+    "tenant": "OpenAI",
+    "city": "Rincon",
+    "county": "Effingham County",
+    "state": "GA",
+    "lat": 32.29603,
+    "lon": -81.23539,
+    "capacity_mw": null,
+    "planned_mw": 3210,
+    "status": "planned",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Proposed OpenAI-linked campus in Effingham County, listed at 3,210 MW in a 2026 Georgia regional review. Coordinate is Rincon and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ga/data-centers/",
+        "title": "Data centers in Georgia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Stak Energy North Slope",
+    "aliases": [
+      "Stak Energy Campus",
+      "Umiat data center"
+    ],
+    "operator": "Stak Energy",
+    "owner": "Stak Energy",
+    "tenant": null,
+    "city": "Deadhorse",
+    "county": "North Slope",
+    "state": "AK",
+    "lat": 70.2123,
+    "lon": -148.4355,
+    "capacity_mw": null,
+    "planned_mw": 3000,
+    "status": "announced",
+    "announced_date": "2026-05",
+    "expected_completion": "2028",
+    "investment_usd": null,
+    "power_source": "On-site natural gas from new pipelines; the filing described about 1 GW of generation, with a campus that could reach 3 GW",
+    "utility": null,
+    "acreage": 715,
+    "notes": "Data Center Dynamics, citing the Anchorage Daily News and a State of Alaska filing, reported on May 20, 2026 that Stak Energy had preliminary approval to lease 715.4 acres about 26 miles south of Deadhorse for a gas-powered modular computing campus of up to 3 GW. The same account says on-site generation is about 1 GW. Construction was scheduled to begin in summer 2026, with initial operations in late 2028. Coordinates are Deadhorse, not the lease. No Hawaii campus of this scale was verified.",
+    "confidence": "low",
+    "sources": [
+      {
+        "url": "https://www.datacenterdynamics.com/en/news/stak-energy-proposes-3gw-natural-gas-powered-data-center-in-alaskas-north-slope/",
+        "title": "Stak Energy proposes 3GW North Slope data center",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "STACK Berry Hill",
+    "aliases": [
+      "Berry Hill megasite"
+    ],
+    "operator": "STACK Infrastructure",
+    "owner": "STACK Infrastructure",
+    "tenant": null,
+    "city": "Danville",
+    "county": "Pittsylvania County",
+    "state": "VA",
+    "lat": 36.60315,
+    "lon": -79.52733,
+    "capacity_mw": null,
+    "planned_mw": 3000,
+    "status": "announced",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "STACK Berry Hill megasite in Pittsylvania County, approved for up to 3,000 MW. An October 2026 permit application describes 21 buildings over 15 years. Coordinate is a Berry Hill Road geocode and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/va/data-centers/",
+        "title": "Data centers in Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Adams Fork Data Center Energy Campus",
+    "aliases": [
+      "Twisted Gun",
+      "Adams Fork Harless"
+    ],
+    "operator": "TransGas Development Systems",
+    "owner": "TransGas Development Systems",
+    "tenant": null,
+    "city": "Williamson",
+    "county": "Mingo County",
+    "state": "WV",
+    "lat": 37.67427,
+    "lon": -82.27736,
+    "capacity_mw": null,
+    "planned_mw": 2457,
+    "status": "announced",
+    "announced_date": "2025-10",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "TransGas Twisted Gun filing in Mingo County, locally approved and listed at 2,457 MW. A second Harless filing carries the same figure. State data-center officials said in June 2026 the Mingo projects lacked state certification. Coordinate is Williamson and is approximate.",
+    "confidence": "low",
+    "sources": [
+      {
+        "url": "https://signaldata.org/wv/data-centers/",
+        "title": "Data centers in West Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Project Jupiter",
+    "aliases": [
+      "Stargate Doña Ana County",
+      "Oracle Santa Teresa"
+    ],
+    "operator": "Oracle / BorderPlex Digital Assets",
+    "owner": "Oracle / BorderPlex Digital Assets",
+    "tenant": "OpenAI",
+    "city": "Santa Teresa",
+    "county": "Doña Ana",
+    "state": "NM",
+    "lat": 31.87003,
+    "lon": -106.68658,
+    "capacity_mw": null,
+    "planned_mw": 2450,
+    "status": "under_construction",
+    "announced_date": "2025-09",
+    "expected_completion": "2028",
+    "investment_usd": null,
+    "power_source": "Behind-the-meter Bloom Energy fuel cells, up to 2.45 GW, fueled by natural gas",
+    "utility": null,
+    "acreage": null,
+    "notes": "Oracle and BorderPlex said on April 27, 2026 that Project Jupiter in Doña Ana County will run on up to 2.45 GW of Bloom fuel cells, replacing an earlier gas-turbine and diesel design, and that construction was continuing. OpenAI's September 23, 2025 Stargate announcement named Doña Ana County as an Oracle site. Epoch had projected about 2.2 GW and named STACK Infrastructure as the developer of four buildings. The pin is Santa Teresa and is approximate.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.oracle.com/news/announcement/oracle-borderplex-and-bloom-energy-to-power-project-jupiter-with-fuel-cell-technology-2026-04-27/",
+        "title": "Oracle, BorderPlex, and Bloom Energy to power Project Jupiter",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://openai.com/index/five-new-stargate-sites/",
+        "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new sites",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+        "title": "OpenAI Stargate: where the US sites stand",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Quantum Frederick",
+    "aliases": [
+      "Quantum Loophole",
+      "Frederick Digital Campus"
+    ],
+    "operator": "Catellus Development",
+    "owner": "TPG Real Estate",
+    "tenant": "Aligned",
+    "city": "Adamstown",
+    "county": "Frederick County",
+    "state": "MD",
+    "lat": 39.34766,
+    "lon": -77.49385,
+    "capacity_mw": null,
+    "planned_mw": 2400,
+    "status": "under_construction",
+    "announced_date": "2021",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": 2100,
+    "notes": "Former Alcoa Eastalco site near Adamstown. Quantum Loophole described a 1 GW goal in 2022 with more than 240 MW of phase-one power contracted. A 2026 county compilation lists about 2.4 GW, which is the stored build-out. Aligned has a 72 MW building under construction and about 264 MW planned on its parcel. Coordinate is 5601 Manor Woods Road.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/md/data-centers/",
+        "title": "Data centers in Maryland, SignalData",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://www.datacenterdynamics.com/en/news/quantum-loophole-signs-four-customers-240mw-of-capacity-for-maryland-campus/",
+        "title": "Quantum Loophole Maryland campus, DCD",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Tract Hanover Hickory Hill",
+    "aliases": [
+      "Tract Hickory Hill Road"
+    ],
+    "operator": "Tract",
+    "owner": "Tract",
+    "tenant": null,
+    "city": "Ashland",
+    "county": "Hanover County",
+    "state": "VA",
+    "lat": 37.7594,
+    "lon": -77.48066,
+    "capacity_mw": null,
+    "planned_mw": 2400,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Tract park on Hickory Hill Road in Hanover County, listed at 2,400 MW and under construction as of June 2026. Coordinate is Ashland and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/va/data-centers/",
+        "title": "Data centers in Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Amazon Project Rainier New Carlisle",
+    "aliases": [
+      "Anthropic-Amazon New Carlisle",
+      "AWS New Carlisle"
+    ],
+    "operator": "Amazon",
+    "owner": "Amazon",
+    "tenant": "Anthropic",
+    "city": "New Carlisle",
+    "county": "St. Joseph",
+    "state": "IN",
+    "lat": 41.6893,
+    "lon": -86.4606,
+    "capacity_mw": 1037,
+    "planned_mw": 2300,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid; Amazon says the St. Joseph County buildings maximize outside-air cooling and use little water for much of the year",
+    "utility": null,
+    "acreage": null,
+    "notes": "Amazon says Project Rainier is operating and that St. Joseph County, Indiana is one of the sites, with Anthropic running Claude workloads on Trainium2. Epoch AI estimates 1,037 MW of current IT power at 55001 Larrison Blvd and cites an air permit for later buildings that it reads as expansion toward 2.3 GW of facility power. A December 2024 MISO sheet had listed 660 MW for AWS in New Carlisle, which is below the later IT estimate. Coordinates are that street address.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster",
+        "title": "AWS activates Project Rainier",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Fairwater Mount Pleasant",
+    "aliases": [
+      "Fairwater",
+      "Microsoft AI WAN Wisconsin"
+    ],
+    "operator": "Microsoft",
+    "owner": "Microsoft",
+    "tenant": "Microsoft / OpenAI",
+    "city": "Mount Pleasant",
+    "county": "Racine",
+    "state": "WI",
+    "lat": 42.6752,
+    "lon": -87.8948,
+    "capacity_mw": 369,
+    "planned_mw": 2263,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": "2028",
+    "investment_usd": 7300000000,
+    "power_source": "Grid power from We Energies, with fossil use matched by carbon-free energy including a 250 MW Portage County solar project",
+    "utility": "We Energies",
+    "acreage": null,
+    "notes": "Microsoft said in September 2025 that the first Mount Pleasant datacenter, tied to an initial $3.3 billion pledge, was on track for early 2026, and committed another $4 billion for a second datacenter of similar scale. Epoch AI estimates 369 MW of IT power in service and projects about 2,263 MW of IT power by 2028 if the revised multi-building plan is built. A December 2024 MISO large-load sheet listed 1,480 MW for Microsoft in Mount Pleasant. Coordinates are the geocoded 4800 90th St address.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/",
+        "title": "Made in Wisconsin: The world's most powerful AI datacenter",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/ai-data-centers/directory/microsoft-fairwater-wisconsin",
+        "title": "Microsoft Fairwater Wisconsin | Epoch AI",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Mason County",
+    "aliases": [
+      "Chrisham Mason County"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Maysville",
+    "county": "Mason County",
+    "state": "KY",
+    "lat": 38.64746,
+    "lon": -83.76448,
+    "capacity_mw": null,
+    "planned_mw": 2200,
+    "status": "announced",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Meta, through Chrisham LLC, has a Mason County campus local officials identified in October 2026, listed at 2,200 MW and approved at the county level. Coordinate is Maysville and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ky/data-centers/",
+        "title": "Data centers in Kentucky, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Project Tamarack",
+    "aliases": [
+      "Starwood Mason County"
+    ],
+    "operator": "Starwood Digital Ventures",
+    "owner": "Starwood Capital Group",
+    "tenant": null,
+    "city": "Point Pleasant",
+    "county": "Mason County",
+    "state": "WV",
+    "lat": 38.84453,
+    "lon": -82.13709,
+    "capacity_mw": null,
+    "planned_mw": 2160,
+    "status": "announced",
+    "announced_date": "2026-09",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Starwood campus in Mason County, state-certified in September 2026 and listed at 2,160 MW, north of Monarch. Coordinate is Point Pleasant and is the same approximate town point as Monarch.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/wv/data-centers/",
+        "title": "Data centers in West Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Aligned Project Phoenix Shippingport",
+    "aliases": [
+      "Project Phoenix",
+      "Shippingport data center"
+    ],
+    "operator": "Aligned Data Centers",
+    "owner": "Aligned Data Centers",
+    "tenant": null,
+    "city": "Shippingport",
+    "county": "Beaver",
+    "state": "PA",
+    "lat": 40.6294,
+    "lon": -80.4212,
+    "capacity_mw": null,
+    "planned_mw": 2000,
+    "status": "under_construction",
+    "announced_date": "2026-09",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Dedicated on-site power next to the former coal plant being redeveloped as a natural-gas energy campus; Aligned says the data centers will not draw their supply from the local grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Aligned broke ground on September 10, 2026 on Project Phoenix, which it describes as a 2 GW, three-facility campus in the Shippingport Industrial Park. The company said the project anchors an estimated $10 billion in regional economic investment; that is not stated as the campus construction cost. No tenant is named. Coordinates are the Shippingport borough center.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://aligneddc.com/press-release/project-phoenix-data-center-shippingport-pa/",
+        "title": "Aligned Project Phoenix groundbreaking",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Rubix Ashland Works",
+    "aliases": [
+      "Rubix Greenup"
+    ],
+    "operator": "Rubix Data Centers",
+    "owner": "Submer Group",
+    "tenant": null,
+    "city": "Russell",
+    "county": "Greenup County",
+    "state": "KY",
+    "lat": 38.5173,
+    "lon": -82.69766,
+    "capacity_mw": null,
+    "planned_mw": 2000,
+    "status": "planned",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Proposed Rubix campus of about 2,000 MW at the former AK Steel site in Greenup County. Russell adopted a data center moratorium in 2026. Coordinate is Russell and is approximate.",
+    "confidence": "low",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ky/data-centers/",
+        "title": "Data centers in Kentucky, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Monarch Compute Campus",
+    "aliases": [
+      "Nscale Mason County"
+    ],
+    "operator": "Nscale",
+    "owner": "Nscale / Fidelis New Energy",
+    "tenant": "Anthropic",
+    "city": "Point Pleasant",
+    "county": "Mason County",
+    "state": "WV",
+    "lat": 38.84453,
+    "lon": -82.13709,
+    "capacity_mw": null,
+    "planned_mw": 2000,
+    "status": "under_construction",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Nscale and Fidelis campus in Mason County. The state certified a first phase at about 2 GW, and site work is underway. Nscale filings describe GPU capacity contracted to Anthropic. Coordinate is Point Pleasant and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/wv/data-centers/",
+        "title": "Data centers in West Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "IREN Sweetwater",
+    "aliases": [
+      "Sweetwater Hub",
+      "Sweetwater 1",
+      "Sweetwater 2"
+    ],
+    "operator": "IREN",
+    "owner": "IREN",
+    "tenant": null,
+    "city": "Sweetwater",
+    "county": "Nolan",
+    "state": "TX",
+    "lat": 32.47095,
+    "lon": -100.40594,
+    "capacity_mw": null,
+    "planned_mw": 2000,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": "2027",
+    "investment_usd": null,
+    "power_source": "ERCOT grid",
+    "utility": null,
+    "acreage": 2200,
+    "notes": "IREN's site page describes a 2,000 MW Sweetwater hub on 2,200 acres across two West Texas sites: Sweetwater 1 at 1,400 MW on 1,700 acres, with 2026 substation energization, and Sweetwater 2 at 600 MW on 500 acres, with 2027 substation energization. Both are marked under construction. The pin is the city of Sweetwater and may not sit on either parcel.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://iren.com/data-centers/sweetwater",
+        "title": "IREN Sweetwater data center",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Poolside Project Horizon",
+    "aliases": [
+      "Project Horizon"
+    ],
+    "operator": "Poolside",
+    "owner": "Poolside",
+    "tenant": null,
+    "city": "Fort Stockton",
+    "county": "Pecos",
+    "state": "TX",
+    "lat": 30.8919,
+    "lon": -102.88366,
+    "capacity_mw": null,
+    "planned_mw": 2000,
+    "status": "announced",
+    "announced_date": "2025-10",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": 568,
+    "notes": "Data Center Dynamics reported on April 2, 2026 that Poolside and CoreWeave had agreed in October 2025 to a 2 GW Texas campus on 568 acres, with a 250 MW first phase and a path to 500 MW, and that the CoreWeave deal had fallen apart. The article said later talks were aimed at up to 400 MW and that the site is in the Permian Basin. It does not name the town. Fort Stockton is a reported location from other coverage and the pin is only a county approximation.",
+    "confidence": "low",
+    "sources": [
+      {
+        "url": "https://www.datacenterdynamics.com/en/news/poolside-seeks-partners-for-data-center-in-texas-after-coreweave-deal-falls-apart/",
+        "title": "Poolside seeks partners after CoreWeave deal falls apart",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Project Bunkhouse",
+    "aliases": [
+      "Digital Realty Bunkhouse"
+    ],
+    "operator": "Digital Realty",
+    "owner": "Taurus DC SPE LLC",
+    "tenant": null,
+    "city": "Cartersville",
+    "county": "Bartow County",
+    "state": "GA",
+    "lat": 34.16523,
+    "lon": -84.79976,
+    "capacity_mw": null,
+    "planned_mw": 1830,
+    "status": "announced",
+    "announced_date": "2025-06",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Bartow County campus approved for rezoning in June 2025 and listed at 1,830 MW. The applicant is Taurus DC SPE LLC, described publicly as a Digital Realty vehicle. Coordinate is Cartersville and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ga/data-centers/",
+        "title": "Data centers in Georgia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Joliet Technology Center",
+    "aliases": [
+      "PowerHouse Joliet",
+      "Hillwood Joliet"
+    ],
+    "operator": "PowerHouse Data Centers",
+    "owner": "Hillwood / PowerHouse Data Centers",
+    "tenant": null,
+    "city": "Joliet",
+    "county": "Will",
+    "state": "IL",
+    "lat": 41.4728,
+    "lon": -88.0609,
+    "capacity_mw": null,
+    "planned_mw": 1800,
+    "status": "planned",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": 20000000000,
+    "power_source": "Grid from ComEd; the developers say there is no on-site generation",
+    "utility": "ComEd",
+    "acreage": 800,
+    "notes": "The Joliet Technology Center site says Hillwood and PowerHouse plan a 1.8 GW campus and about $20 billion of private investment on roughly 800 acres south of Chicagoland Speedway, phased over years, with closed-loop cooling. No tenant is named. Coordinates are the speedway, so the pin is north of the described parcel.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://joliettechnologycenter.com/at-a-glance/",
+        "title": "Joliet Technology Center at a glance",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Paducah DOE AI campus",
+    "aliases": [
+      "Brookfield Paducah",
+      "NextEra Paducah"
+    ],
+    "operator": "Brookfield",
+    "owner": "Brookfield",
+    "tenant": null,
+    "city": "Paducah",
+    "county": "McCracken County",
+    "state": "KY",
+    "lat": 37.08339,
+    "lon": -88.60005,
+    "capacity_mw": null,
+    "planned_mw": 1800,
+    "status": "announced",
+    "announced_date": "2026-07",
+    "expected_completion": "2032",
+    "investment_usd": 100000000000,
+    "power_source": "Dedicated generation: up to 2 GW natural gas and up to 2.6 GW of batteries built by NextEra",
+    "utility": "Jackson Purchase Energy Cooperative",
+    "acreage": null,
+    "notes": "DOE selected Brookfield for the former Paducah enrichment site and NextEra for dedicated generation. The July 2026 announcement says up to 1.8 GW of utility capacity and over 1.2 GW of compute by 2032, still subject to final contracts. planned_mw is the stated utility capacity. Coordinate is Paducah and is approximate.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://newsroom.nexteraenergy.com/2026-07-29-DOE-Site-in-Western-Kentucky-Revitalized-with-Data-Center-Campus-and-Dedicated-Energy-Project,-Creating-Jobs-and-Protecting-Residents-and-Businesses-from-Costs",
+        "title": "Paducah DOE campus announcement, NextEra Energy",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://signaldata.org/ky/data-centers/",
+        "title": "Data centers in Kentucky, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Tract Buckeye",
+    "aliases": [
+      "Buckeye Technology Park"
+    ],
+    "operator": "Tract",
+    "owner": "Tract",
+    "tenant": null,
+    "city": "Buckeye",
+    "county": "Maricopa",
+    "state": "AZ",
+    "lat": 33.37032,
+    "lon": -112.58378,
+    "capacity_mw": null,
+    "planned_mw": 1800,
+    "status": "planned",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": 2019,
+    "notes": "Tract's project index lists one Arizona park, Buckeye, at 2,019 acres and 1,800 MW. Tract sells powered land rather than operating the data halls. No tenant or construction date is on that index page. The pin is the Buckeye city centroid and may be far from the parcel.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://www.tract.com/projects/",
+        "title": "Tract projects",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Galaxy Helios",
+    "aliases": [
+      "Helios",
+      "CoreWeave Helios"
+    ],
+    "operator": "Galaxy Digital",
+    "owner": "Galaxy Digital",
+    "tenant": "CoreWeave",
+    "city": "Afton",
+    "county": "Dickens",
+    "state": "TX",
+    "lat": 33.76286,
+    "lon": -100.8168,
+    "capacity_mw": 200,
+    "planned_mw": 1630,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": "2027",
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": 2200,
+    "notes": "Galaxy said phase 1 delivered about 200 MW gross and 133 MW of critical IT load to CoreWeave, with rent starting in the second quarter of 2026. CoreWeave has committed to 526 MW of critical IT load, equal to 800 MW gross, across phases 1 through 3. Approved campus power is 1.63 GW on more than 2,200 acres, with a stated potential of 3.6 GW. Phase 2 data halls were expected to start delivery in the first half of 2027. The pin is the town of Afton; Epoch lists 984 County Road 112.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.galaxy.com/newsroom/galaxy-completes-phase-i-of-its-helios-data-center-campus",
+        "title": "Galaxy completes Helios phase I for CoreWeave",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "xAI Colossus 2",
+    "aliases": [
+      "Colossus II",
+      "Tulane Road"
+    ],
+    "operator": "xAI",
+    "owner": "xAI / SpaceXAI",
+    "tenant": "xAI",
+    "city": "Memphis",
+    "county": "Shelby County",
+    "state": "TN",
+    "lat": 34.99798,
+    "lon": -90.03487,
+    "capacity_mw": 946,
+    "planned_mw": 1531,
+    "status": "operational",
+    "announced_date": "2025",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Gas turbines at the former Duke plant in Southaven, plus batteries",
+    "utility": "Memphis Light, Gas and Water",
+    "acreage": null,
+    "notes": "Site at 5420 Tulane Road, operating while construction continues. Epoch AI estimates 946 MW of IT power in 2026 and about 1,531 MW of IT power if a third building is finished, with facility power near 2,065 MW. Much of the generation is in Southaven.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://www.datacenterdynamics.com/en/news/spacexai-launching-two-additional-data-center-campuses-in-mississippi-to-further-expand-colossus-2/",
+        "title": "SpaceXAI Southaven campuses, DCD",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "QTS Blakely",
+    "aliases": [
+      "QTS Early County"
+    ],
+    "operator": "QTS",
+    "owner": "QTS / Blackstone",
+    "tenant": null,
+    "city": "Blakely",
+    "county": "Early County",
+    "state": "GA",
+    "lat": 31.37735,
+    "lon": -84.93434,
+    "capacity_mw": null,
+    "planned_mw": 1500,
+    "status": "planned",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Proposed QTS campus in Blakely listed at 1,500 MW, with a 2026 regional-impact filing. Coordinate is Blakely.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ga/data-centers/",
+        "title": "Data centers in Georgia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Project Red Clay",
+    "aliases": [
+      "Cloverleaf Lowndes County"
+    ],
+    "operator": "Cloverleaf Infrastructure",
+    "owner": null,
+    "tenant": null,
+    "city": "Hayneville",
+    "county": "Lowndes County",
+    "state": "AL",
+    "lat": 32.18403,
+    "lon": -86.58025,
+    "capacity_mw": null,
+    "planned_mw": 1500,
+    "status": "announced",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": "Alabama Power",
+    "acreage": null,
+    "notes": "Cloverleaf project in Lowndes County listed at 1,500 MW. The county approved a tax abatement in October 2026. Coordinate is Hayneville and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/al/data-centers/",
+        "title": "Data centers in Alabama, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Stargate Saline Township",
+    "aliases": [
+      "The Barn",
+      "Project Mitten",
+      "OpenAI Stargate Michigan"
+    ],
+    "operator": "Related Digital",
+    "owner": "Oracle",
+    "tenant": "OpenAI",
+    "city": "Saline Township",
+    "county": "Washtenaw",
+    "state": "MI",
+    "lat": 42.1238,
+    "lon": -83.8348,
+    "capacity_mw": null,
+    "planned_mw": 1400,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": "2028",
+    "investment_usd": null,
+    "power_source": "Grid from DTE, with battery storage financed by the project",
+    "utility": "DTE Energy",
+    "acreage": null,
+    "notes": "Epoch AI says Related Digital's Saline Township campus, called The Barn, started construction in the fourth quarter of 2025, is projected at 1.4 GW, and is aimed at completion in the fourth quarter of 2028, with foundation work visible by March 2026. Epoch's dataset cites a Michigan Public Service Commission contract approval reporting 1,383 MW. Coordinates are the Saline Township centroid, not a building footprint.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+        "title": "OpenAI Stargate: where the US sites stand",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Vantage Frontier",
+    "aliases": [
+      "Stargate Shackelford County",
+      "Project Frontier"
+    ],
+    "operator": "Vantage Data Centers",
+    "owner": "Vantage Data Centers",
+    "tenant": "Oracle / OpenAI",
+    "city": "Albany",
+    "county": "Shackelford",
+    "state": "TX",
+    "lat": 32.72807,
+    "lon": -99.2946,
+    "capacity_mw": null,
+    "planned_mw": 1400,
+    "status": "under_construction",
+    "announced_date": "2025-08",
+    "expected_completion": "2026",
+    "investment_usd": 25000000000,
+    "power_source": "On-site natural gas microgrid, per Epoch AI",
+    "utility": null,
+    "acreage": 1200,
+    "notes": "Vantage announced on August 19, 2025 a 1.4 GW, 10-building, 1,200-acre campus with construction already started and first delivery targeted for the second half of 2026. OpenAI lists Shackelford County as an Oracle Stargate site. Epoch treats Vantage's 1.4 GW as IT power and estimates about 2 GW of facility power, with campus completion around the fourth quarter of 2028. The pin is Albany, the county seat, not the parcel.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://vantage-dc.com/news/vantage-data-centers-unveils-plans-for-frontier-a-25b-mega-campus-in-texas-to-meet-unprecedented-ai-demand/",
+        "title": "Vantage unveils Frontier mega-campus in Texas",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://openai.com/index/five-new-stargate-sites/",
+        "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new sites",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+        "title": "OpenAI Stargate: where the US sites stand",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Switch KEEP 2.0 Atlanta North",
+    "aliases": [
+      "Switch Cartersville"
+    ],
+    "operator": "Switch",
+    "owner": "Switch",
+    "tenant": null,
+    "city": "Cartersville",
+    "county": "Bartow County",
+    "state": "GA",
+    "lat": 34.16523,
+    "lon": -84.79976,
+    "capacity_mw": null,
+    "planned_mw": 1200,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Switch KEEP 2.0 in Bartow County, listed at 1,200 MW and under construction. Separate from the operating Lithia Springs Switch campus. Coordinate is Cartersville and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ga/data-centers/",
+        "title": "Data centers in Georgia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "QTS Project Marvel",
+    "aliases": [
+      "QTS Bessemer"
+    ],
+    "operator": "QTS",
+    "owner": "QTS / Blackstone",
+    "tenant": null,
+    "city": "Bessemer",
+    "county": "Jefferson County",
+    "state": "AL",
+    "lat": 33.40178,
+    "lon": -86.95444,
+    "capacity_mw": null,
+    "planned_mw": 1200,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "QTS Bessemer campus listed at 1,200 MW. Site work was underway in October 2026. Coordinate is Bessemer and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/al/data-centers/",
+        "title": "Data centers in Alabama, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Fort Meade data center campus",
+    "aliases": [
+      "Stonebridge Fort Meade"
+    ],
+    "operator": "Stonebridge",
+    "owner": "Fort Meade LLC",
+    "tenant": null,
+    "city": "Fort Meade",
+    "county": "Polk County",
+    "state": "FL",
+    "lat": 27.75225,
+    "lon": -81.80175,
+    "capacity_mw": null,
+    "planned_mw": 1200,
+    "status": "announced",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": "Duke Energy Florida",
+    "acreage": null,
+    "notes": "Stonebridge campus in Fort Meade listed at 1,200 MW. The city approved it and it was still waiting on a water permit. No hyperscale tenant has been named. Coordinate is Fort Meade.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/fl/data-centers/",
+        "title": "Data centers in Florida, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Dahlgren West",
+    "aliases": [
+      "Oasis Digital Dahlgren"
+    ],
+    "operator": "Oasis Digital Properties",
+    "owner": null,
+    "tenant": null,
+    "city": "Dahlgren",
+    "county": "King George County",
+    "state": "VA",
+    "lat": 38.34068,
+    "lon": -77.06862,
+    "capacity_mw": null,
+    "planned_mw": 1200,
+    "status": "announced",
+    "announced_date": "2025",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Approved King George County campus listed at 1,200 MW. Oasis Digital Properties has been named as the developer. Coordinate is Dahlgren and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/va/data-centers/",
+        "title": "Data centers in Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google West Creek",
+    "aliases": [
+      "Google Goochland"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Manakin-Sabot",
+    "county": "Goochland County",
+    "state": "VA",
+    "lat": 37.63235,
+    "lon": -77.68114,
+    "capacity_mw": null,
+    "planned_mw": 1200,
+    "status": "planned",
+    "announced_date": "2026-11",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": 1000,
+    "notes": "Google said in November 2026 it was still doing due diligence on about 1,000 acres at West Creek Business Park for a possible 1.2 GW campus. Hard plans were not made. Coordinate is a Hockett Road geocode and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://www.datacenterdynamics.com/en/news/google-eyes-1000-acres-for-12gw-data-center-in-goochland-county-virginia/",
+        "title": "Google Goochland 1.2GW site, DCD",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Stargate Abilene",
+    "aliases": [
+      "Lancium Clean Campus",
+      "Crusoe Abilene"
+    ],
+    "operator": "Crusoe",
+    "owner": null,
+    "tenant": "Oracle / OpenAI",
+    "city": "Abilene",
+    "county": "Taylor",
+    "state": "TX",
+    "lat": 32.49423,
+    "lon": -99.80091,
+    "capacity_mw": 824,
+    "planned_mw": 1200,
+    "status": "operational",
+    "announced_date": "2025-01",
+    "expected_completion": "2026",
+    "investment_usd": null,
+    "power_source": "ERCOT grid plus on-site natural gas",
+    "utility": "American Electric Power",
+    "acreage": null,
+    "notes": "Crusoe says the existing eight-building Abilene campus totals 1.2 GW and was expected to finish by the end of 2026. Epoch AI's database lists 824 MW of current IT power at 5502 Spinks Rd and about $31.2 billion of estimated capital cost. The pin is Spinks Road, not a surveyed building footprint. Epoch's March 2026 site note still had the campus near 0.3 GW, so the live total moved quickly through 2026.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-new-900-mw-ai-factory-campus-in-abilene-texas-to-support-microsoft-ai-infrastructure",
+        "title": "Crusoe announces 900 MW Abilene campus for Microsoft",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+        "title": "OpenAI Stargate: where the US sites stand",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Stargate Milam County",
+    "aliases": [
+      "Milam Data Center",
+      "SB Energy Milam"
+    ],
+    "operator": "SB Energy",
+    "owner": "SB Energy",
+    "tenant": "OpenAI",
+    "city": "Cameron",
+    "county": "Milam",
+    "state": "TX",
+    "lat": 30.85325,
+    "lon": -96.97693,
+    "capacity_mw": null,
+    "planned_mw": 1200,
+    "status": "under_construction",
+    "announced_date": "2025-09",
+    "expected_completion": "2027",
+    "investment_usd": null,
+    "power_source": "New generation to be built for the site; fuel not specified",
+    "utility": null,
+    "acreage": null,
+    "notes": "OpenAI said on January 9, 2026 that it signed a 1.2 GW lease for SB Energy to build and operate the Milam County Stargate site. SB Energy's project site says phase 1 is in construction, first operations are expected in 2027, and the project is described as a 1 GW-plus AI data center using closed-loop cooling. The pin is Cameron, the county seat; Epoch describes the site as about 70 miles northeast of Austin.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://openai.com/index/stargate-sb-energy-partnership/",
+        "title": "OpenAI and SoftBank Group partner with SB Energy",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://milamdc.com/faqs/",
+        "title": "Milam Data Center FAQs",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://openai.com/index/five-new-stargate-sites/",
+        "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new sites",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Rumble Technology Park",
+    "aliases": [
+      "Cloverleaf Monroe County"
+    ],
+    "operator": "Cloverleaf Infrastructure",
+    "owner": null,
+    "tenant": null,
+    "city": "Forsyth",
+    "county": "Monroe County",
+    "state": "GA",
+    "lat": 33.0345,
+    "lon": -83.9389,
+    "capacity_mw": null,
+    "planned_mw": 1120,
+    "status": "announced",
+    "announced_date": "2024-11",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Approved Cloverleaf project in Monroe County listed at 1,120 MW. Coordinate is Forsyth and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ga/data-centers/",
+        "title": "Data centers in Georgia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "EdgeCore Louisa",
+    "aliases": [
+      "Shannon Hill Regional Business Park"
+    ],
+    "operator": "EdgeCore",
+    "owner": "EdgeCore Digital Infrastructure",
+    "tenant": null,
+    "city": "Louisa",
+    "county": "Louisa County",
+    "state": "VA",
+    "lat": 37.98544,
+    "lon": -77.94863,
+    "capacity_mw": null,
+    "planned_mw": 1100,
+    "status": "planned",
+    "announced_date": "2025-06",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Proposed EdgeCore campus at Shannon Hill in Louisa County, listed at 1,100 MW. Coordinate is the Louisa County centroid and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/va/data-centers/",
+        "title": "Data centers in Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Boydton",
+    "aliases": [
+      "Azure East US"
+    ],
+    "operator": "Microsoft",
+    "owner": "Microsoft",
+    "tenant": "Microsoft",
+    "city": "Boydton",
+    "county": "Mecklenburg County",
+    "state": "VA",
+    "lat": 36.66731,
+    "lon": -78.3882,
+    "capacity_mw": null,
+    "planned_mw": 1100,
+    "status": "operational",
+    "announced_date": "2010",
+    "expected_completion": null,
+    "investment_usd": 2000000000,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Operating since 2010 and still expanding. A 2026 campus survey lists about 1,100 MW as the full-build design and more than $2 billion invested since 2010. Separate air-permit totals are not added to that figure. Coordinate is Boydton.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://insidethedatacenter.com/articles/virginia-data-centers/",
+        "title": "Every Data Center in Virginia, Inside the Datacenter",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://signaldata.org/va/data-centers/",
+        "title": "Data centers in Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Prometheus New Albany",
+    "aliases": [
+      "Meta New Albany",
+      "Prometheus"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "New Albany",
+    "county": "Licking",
+    "state": "OH",
+    "lat": 40.0684,
+    "lon": -82.7503,
+    "capacity_mw": 471,
+    "planned_mw": 1000,
+    "status": "operational",
+    "announced_date": "2017",
+    "expected_completion": null,
+    "investment_usd": 1500000000,
+    "power_source": "Grid; Meta says it worked with AEP and matches electricity use with clean and renewable energy, including five Ohio projects adding 847 MW",
+    "utility": "American Electric Power",
+    "acreage": null,
+    "notes": "Meta's New Albany fact sheet says the campus, which broke ground in 2017, represents a $1.5 billion-plus investment and will deliver over 1 gigawatt of compute capacity for the Prometheus cluster. An October 2026 Meta engineering post says the first phase is complete and full scale is roughly 1 million GPUs. Epoch AI estimates 471 MW of current IT power at 1 Community Cir. The $1.5 billion-plus figure may not be the full cost of the gigawatt build. Coordinates are that address, which geocodes to Licking County.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://datacenters.atmeta.com/wp-content/uploads/2026/09/Meta_s-New-Albany-Data-Center.pdf",
+        "title": "Meta New Albany Data Center fact sheet",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+        "title": "Inside Prometheus: Meta's Journey to a Gigawatt-Scale Supercluster",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Lebanon",
+    "aliases": [
+      "Meta Boone County"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Lebanon",
+    "county": "Boone",
+    "state": "IN",
+    "lat": 40.0485,
+    "lon": -86.4692,
+    "capacity_mw": null,
+    "planned_mw": 1000,
+    "status": "under_construction",
+    "announced_date": "2026-02",
+    "expected_completion": null,
+    "investment_usd": 10000000000,
+    "power_source": "Grid; Meta says new energy use will be matched with clean energy and the campus will use closed-loop liquid cooling",
+    "utility": null,
+    "acreage": null,
+    "notes": "Meta said on February 11, 2026 that it was breaking ground on a second Indiana data center in Lebanon, designed for 1 GW and an investment of over $10 billion. A December 2024 MISO sheet had listed 1,540 MW for Meta in Lebanon, higher than the later company figure. Coordinates are the Lebanon city center because the announcement does not give a street address.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://about.fb.com/news/2026/02/metas-new-data-center-lebanon-indiana-marks-milestone-ai-investment/",
+        "title": "Meta's New Data Center in Lebanon, Indiana",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Project Cannoli Van Buren Township",
+    "aliases": [
+      "Google Van Buren",
+      "Google Michigan"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Van Buren Township",
+    "county": "Wayne",
+    "state": "MI",
+    "lat": 42.2271,
+    "lon": -83.4439,
+    "capacity_mw": null,
+    "planned_mw": 1000,
+    "status": "announced",
+    "announced_date": "2026-03",
+    "expected_completion": "2028",
+    "investment_usd": null,
+    "power_source": "Grid; Google says the data center would be served by 2.7 GW of new solar, storage, and demand flexibility under a Clean Capacity Acceleration Agreement with DTE",
+    "utility": "DTE Energy",
+    "acreage": null,
+    "notes": "Google said on March 17, 2026 that it is evaluating a data center site in Van Buren Township and pairing it with 2.7 GW of new grid resources. A DTE filing excerpted in public reporting describes a facility with maximum load of about 1.0 GW, service beginning December 2027, and maximum load by December 2028. The pin is 10385 Haggerty Rd, the address used in local permitting comments, which geocodes to a Belleville mailing address in Wayne County.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/clean-energy-reliability-michigan/",
+        "title": "Scaling clean energy and reliability in Michigan",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://www.hrwc.org/hrwc-comments-on-google-data-center-wetlands-permit-application/",
+        "title": "HRWC comments on Google data center wetlands permit",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "TeraWulf Muskie EastPark",
+    "aliases": [
+      "Muskie Data Campus"
+    ],
+    "operator": "TeraWulf",
+    "owner": "TeraWulf",
+    "tenant": null,
+    "city": "Ashland",
+    "county": "Boyd County",
+    "state": "KY",
+    "lat": 38.47841,
+    "lon": -82.63794,
+    "capacity_mw": null,
+    "planned_mw": 1000,
+    "status": "planned",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": "Kentucky Power",
+    "acreage": null,
+    "notes": "TeraWulf Muskie campus at EastPark, listed at 1,000 MW after a second 500 MW phase, with service discussed for 2029. Coordinate is Ashland and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ky/data-centers/",
+        "title": "Data centers in Kentucky, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Savannah River Site AI campus",
+    "aliases": [
+      "Amentum DC BLOX Savannah River"
+    ],
+    "operator": "Amentum",
+    "owner": null,
+    "tenant": null,
+    "city": "Aiken",
+    "county": "Aiken County",
+    "state": "SC",
+    "lat": 33.57232,
+    "lon": -81.61821,
+    "capacity_mw": null,
+    "planned_mw": 1000,
+    "status": "planned",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Proposed Amentum and DC BLOX AI and energy project associated with the Savannah River Site area, listed at 1 GW. Coordinate is the Aiken County centroid and is approximate.",
+    "confidence": "low",
+    "sources": [
+      {
+        "url": "https://signaldata.org/sc/data-centers/",
+        "title": "Data centers in South Carolina, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta El Paso",
+    "aliases": [
+      "Meta El Paso data center"
+    ],
+    "operator": "Meta",
+    "owner": "Meta / BlackRock",
+    "tenant": "Meta",
+    "city": "El Paso",
+    "county": "El Paso",
+    "state": "TX",
+    "lat": 31.7601,
+    "lon": -106.48705,
+    "capacity_mw": null,
+    "planned_mw": 1000,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": "2028",
+    "investment_usd": 10000000000,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Meta and BlackRock said on July 28, 2026 that the El Paso campus under construction will have 1 GW of compute capacity, with first capacity expected in 2028. Meta described an investment of over $10 billion; the venture's total development cost for buildings and long-lived infrastructure was about $14 billion, with BlackRock funds owning 80 percent and Meta 20 percent. More than 2,300 workers were already on site. The pin is the El Paso city centroid.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/",
+        "title": "Meta and BlackRock El Paso data center venture",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft West Des Moines",
+    "aliases": [
+      "Project Osmium",
+      "Project Ginger",
+      "Project Ruthenium",
+      "Microsoft Cumming"
+    ],
+    "operator": "Microsoft",
+    "owner": "Microsoft",
+    "tenant": "Microsoft / OpenAI",
+    "city": "Cumming",
+    "county": "Warren",
+    "state": "IA",
+    "lat": 41.4987,
+    "lon": -93.7876,
+    "capacity_mw": 190,
+    "planned_mw": 914,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": "2027",
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI estimates 190 MW of current IT power for Project Osmium at 5855 SW Kerry St, Cumming, and links the Iowa buildings to OpenAI training. MISO's December 2024 sheet lists four named Microsoft projects in West Des Moines: Ruthenium 113 MW, Osmium 150 MW, Ginger East 444 MW, and Ginger West 207 MW, which sum to 914 MW. Those may be separate campuses rather than one pad; the coordinate is only the Osmium address. Project Van Meter is a separate entry.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Vantage Lighthouse Port Washington",
+    "aliases": [
+      "Stargate Wisconsin",
+      "OpenAI Stargate Port Washington"
+    ],
+    "operator": "Vantage Data Centers",
+    "owner": "Vantage Data Centers",
+    "tenant": "OpenAI / Oracle",
+    "city": "Port Washington",
+    "county": "Ozaukee",
+    "state": "WI",
+    "lat": 43.3874,
+    "lon": -87.8759,
+    "capacity_mw": null,
+    "planned_mw": 902,
+    "status": "under_construction",
+    "announced_date": "2025-10",
+    "expected_completion": "2028",
+    "investment_usd": 15000000000,
+    "power_source": "Grid, with new solar, wind, and battery capacity; Vantage says 70 percent of new energy capacity is allocated to the campus and the rest matched with renewables",
+    "utility": "We Energies",
+    "acreage": 672,
+    "notes": "Vantage, OpenAI, and Oracle announced the four-building Lighthouse campus on October 22, 2025, describing close to a gigawatt of AI capacity and a $15 billion-plus investment, with completion scheduled for 2028. Data Center Dynamics reported on June 26, 2026 that the second building had topped out and that the site will total 902 MW and 2.5 million square feet. Epoch AI lists about 1.3 GW as an estimated facility-power total. Coordinates are the Port Washington town center, not a surveyed pad.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://vantage-dc.com/news/openai-oracle-and-vantage-data-centers-announce-stargate-data-center-site-in-wisconsin/",
+        "title": "OpenAI, Oracle and Vantage announce Stargate site in Wisconsin",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://www.datacenterdynamics.com/en/news/vantage-tops-out-second-building-at-openais-lighthouse-campus-in-wisconsin/",
+        "title": "Vantage tops out second building at OpenAI's Lighthouse campus",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+        "title": "OpenAI Stargate: where the US sites stand",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Project Sail",
+    "aliases": [
+      "Prologis Coweta"
+    ],
+    "operator": "Prologis",
+    "owner": "Atlas Development",
+    "tenant": null,
+    "city": "Newnan",
+    "county": "Coweta County",
+    "state": "GA",
+    "lat": 33.38067,
+    "lon": -84.79973,
+    "capacity_mw": null,
+    "planned_mw": 900,
+    "status": "announced",
+    "announced_date": "2026-04",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Coweta County project associated with Prologis and Atlas, listed at 900 MW and approved as of April 2026. Coordinate is Newnan and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ga/data-centers/",
+        "title": "Data centers in Georgia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Tract Tuckahoe Technology Park",
+    "aliases": [
+      "Tract Goochland"
+    ],
+    "operator": "Tract",
+    "owner": "Tract",
+    "tenant": null,
+    "city": "Manakin-Sabot",
+    "county": "Goochland County",
+    "state": "VA",
+    "lat": 37.63235,
+    "lon": -77.68114,
+    "capacity_mw": null,
+    "planned_mw": 900,
+    "status": "planned",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": 872,
+    "notes": "Proposed 872-acre Tract park in eastern Goochland that could total 900 MW. It sits near the Google West Creek site. Coordinate is the same approximate Hockett Road point.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://www.datacenterdynamics.com/en/news/google-eyes-1000-acres-for-12gw-data-center-in-goochland-county-virginia/",
+        "title": "Google Goochland 1.2GW site, DCD",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://signaldata.org/va/data-centers/",
+        "title": "Data centers in Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Crusoe Abilene Microsoft campus",
+    "aliases": [
+      "Crusoe Abilene expansion"
+    ],
+    "operator": "Crusoe",
+    "owner": "Crusoe",
+    "tenant": "Microsoft",
+    "city": "Abilene",
+    "county": "Taylor",
+    "state": "TX",
+    "lat": 32.506,
+    "lon": -99.801,
+    "capacity_mw": null,
+    "planned_mw": 900,
+    "status": "under_construction",
+    "announced_date": "2026-03",
+    "expected_completion": "2027",
+    "investment_usd": null,
+    "power_source": "900 MW behind-the-meter on-site gas plant plus battery storage",
+    "utility": null,
+    "acreage": null,
+    "notes": "Crusoe said on March 27, 2026 that land clearing was underway for a dedicated campus next to its existing Abilene site, with two buildings of 336 MW critical IT load each and a 900 MW on-site power plant. First energization was expected in mid-2027. Crusoe said the two Abilene projects together would be about 2.1 GW. The pin is the nearby Spinks Road corridor and is approximate for this second campus.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-new-900-mw-ai-factory-campus-in-abilene-texas-to-support-microsoft-ai-infrastructure",
+        "title": "Crusoe announces 900 MW Abilene campus for Microsoft",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+        "title": "OpenAI Stargate: where the US sites stand",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Fairwater Atlanta",
+    "aliases": [
+      "QTS Fayetteville",
+      "Fairwater"
+    ],
+    "operator": "QTS",
+    "owner": "QTS / Blackstone",
+    "tenant": "Microsoft",
+    "city": "Fayetteville",
+    "county": "Fayette County",
+    "state": "GA",
+    "lat": 33.44535,
+    "lon": -84.52548,
+    "capacity_mw": 636,
+    "planned_mw": 859,
+    "status": "operational",
+    "announced_date": "2023",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Georgia Power grid",
+    "utility": "Georgia Power",
+    "acreage": 615,
+    "notes": "Microsoft Fairwater Atlanta is inside the QTS Fayetteville campus at 1435 Highway 54 West and began operating in 2025. Epoch AI estimates 636 MW of IT power and about 859 MW of facility power across four buildings as of June 2026. The wider QTS campus has additional buildings. Coordinate is the highway address.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/ai-data-centers/directory/microsoft-fairwater-atlanta",
+        "title": "Microsoft Fairwater Atlanta, Epoch AI",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://www.ajc.com/business/2025/11/microsofts-newest-ai-superfactory-opens-at-sprawling-fayetteville-campus/",
+        "title": "Microsoft Fairwater Atlanta, Atlanta Journal-Constitution",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://signaldata.org/ga/data-centers/",
+        "title": "Data centers in Georgia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Brightseat Tech Park",
+    "aliases": [
+      "Brightseat Prince Georges"
+    ],
+    "operator": "Brightseat Associates",
+    "owner": "Brightseat Associates",
+    "tenant": null,
+    "city": "Upper Marlboro",
+    "county": "Prince George's County",
+    "state": "MD",
+    "lat": 38.81625,
+    "lon": -76.75171,
+    "capacity_mw": null,
+    "planned_mw": 820,
+    "status": "announced",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Brightseat Tech Park in Prince George's County, listed at 820 MW and approved. Coordinate is Upper Marlboro and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/md/data-centers/",
+        "title": "Data centers in Maryland, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "AWS Canton Madison Mega Site",
+    "aliases": [
+      "Amazon Madison Mega Site"
+    ],
+    "operator": "Amazon Web Services",
+    "owner": "Amazon",
+    "tenant": "Amazon Web Services",
+    "city": "Canton",
+    "county": "Madison County",
+    "state": "MS",
+    "lat": 32.6126,
+    "lon": -90.03675,
+    "capacity_mw": 284,
+    "planned_mw": 804,
+    "status": "operational",
+    "announced_date": "2024-01",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Entergy Mississippi grid, with new gas generation for the Madison County program",
+    "utility": "Entergy Mississippi",
+    "acreage": null,
+    "notes": "Amazon said in June 2026 that five buildings were operating at Canton, with plans to at least double that. Epoch AI estimates about 284 MW of IT power. Entergy substation studies for the campus total about 804 MW. Coordinate is Canton and is approximate to the mega site.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://mississippitoday.org/2026/06/09/amazon-data-centers-mississippi/",
+        "title": "Amazon data centers in Mississippi, Mississippi Today",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://measuredai.substack.com/p/amazon-mississippi-data-centers",
+        "title": "Amazon Mississippi data centers, MeasureDAI",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "PowerHouse 95",
+    "aliases": [
+      "PowerHouse Spotsylvania"
+    ],
+    "operator": "PowerHouse Data Centers",
+    "owner": "American Real Estate Partners",
+    "tenant": null,
+    "city": "Fredericksburg",
+    "county": "Spotsylvania County",
+    "state": "VA",
+    "lat": 38.30012,
+    "lon": -77.45715,
+    "capacity_mw": null,
+    "planned_mw": 800,
+    "status": "under_construction",
+    "announced_date": "2024-07",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "PowerHouse campus in Spotsylvania County, listed at 800 MW and under construction. Coordinate is Fredericksburg and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/va/data-centers/",
+        "title": "Data centers in Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Amazon Mattameade Tech Campus",
+    "aliases": [
+      "AWS Caroline County"
+    ],
+    "operator": "Amazon Web Services",
+    "owner": "Amazon Data Services",
+    "tenant": "Amazon Web Services",
+    "city": "Ruther Glen",
+    "county": "Caroline County",
+    "state": "VA",
+    "lat": 37.94088,
+    "lon": -77.46186,
+    "capacity_mw": null,
+    "planned_mw": 770,
+    "status": "planned",
+    "announced_date": "2025-02",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Proposed Amazon campus in Caroline County, listed at 770 MW. Coordinate is Ruther Glen and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/va/data-centers/",
+        "title": "Data centers in Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "IREN Childress",
+    "aliases": [
+      "Childress Data Center"
+    ],
+    "operator": "IREN",
+    "owner": "IREN",
+    "tenant": null,
+    "city": "Childress",
+    "county": "Childress",
+    "state": "TX",
+    "lat": 34.51966,
+    "lon": -100.20677,
+    "capacity_mw": 750,
+    "planned_mw": 750,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "ERCOT grid via on-site substations",
+    "utility": null,
+    "acreage": 576,
+    "notes": "IREN's Childress page lists 750 MW of power capacity on a 576-acre site with air and liquid cooling and IREN-owned substations connected to ERCOT. The page presents that figure as the site's total capacity. The pin is the Childress County centroid because a town-level geocode did not resolve, so it is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://iren.com/data-centers/childress",
+        "title": "IREN Childress data center",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Tract Applewhite",
+    "aliases": [
+      "Applewhite Technology Park"
+    ],
+    "operator": "Tract",
+    "owner": "Tract",
+    "tenant": null,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "state": "TX",
+    "lat": 29.4246,
+    "lon": -98.49514,
+    "capacity_mw": null,
+    "planned_mw": 720,
+    "status": "planned",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": 339,
+    "notes": "Tract's project index lists Applewhite in Texas at 339 acres and 720 MW. The index does not give a city. San Antonio is used because Applewhite is the south-San Antonio name associated with this park in secondary coverage, and the pin is the city centroid. Treat the location as approximate.",
+    "confidence": "low",
+    "sources": [
+      {
+        "url": "https://www.tract.com/projects/",
+        "title": "Tract projects",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "QTS Richmond White Oak",
+    "aliases": [
+      "QTS Richmond 1",
+      "QTS Richmond 2",
+      "QTS Richmond 3"
+    ],
+    "operator": "QTS",
+    "owner": "QTS / Blackstone",
+    "tenant": null,
+    "city": "Sandston",
+    "county": "Henrico County",
+    "state": "VA",
+    "lat": 37.48883,
+    "lon": -77.24749,
+    "capacity_mw": 418,
+    "planned_mw": 658,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "White Oak campus in Sandston treated as one site across Richmond 1, 2, and 3. Epoch AI estimates about 238 MW and 180 MW of IT power in the first two phases, plus about 240 MW if Richmond 3 is finished. Facility-power estimates are higher. Coordinate is 6000 Technology Boulevard.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://insidethedatacenter.com/articles/virginia-data-centers/",
+        "title": "Every Data Center in Virginia, Inside the Datacenter",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "QTS Cedar Rapids",
+    "aliases": [
+      "SNA LLC Cedar Rapids",
+      "QTS Fairfax"
+    ],
+    "operator": "QTS",
+    "owner": "QTS",
+    "tenant": null,
+    "city": "Fairfax",
+    "county": "Linn",
+    "state": "IA",
+    "lat": 41.9092,
+    "lon": -91.7544,
+    "capacity_mw": null,
+    "planned_mw": 616,
+    "status": "planned",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": "Alliant Energy",
+    "acreage": null,
+    "notes": "MISO's December 2024 sheet lists 616 MW in Cedar Rapids for a shell company, SNA LLC, with the developer not named on that sheet. Epoch AI identifies the project as QTS at 6200 76th Ave SW, Fairfax, served by Alliant Energy, and marks a Meta tenancy as speculative, so no tenant is recorded here. Epoch showed no current power. Coordinates are that address.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "TeraWulf Lake Mariner",
+    "aliases": [
+      "Lake Mariner",
+      "Fluidstack Lake Mariner",
+      "Core42 Lake Mariner"
+    ],
+    "operator": "TeraWulf",
+    "owner": "TeraWulf",
+    "tenant": "Core42 / Fluidstack / Anthropic",
+    "city": "Barker",
+    "county": "Niagara",
+    "state": "NY",
+    "lat": 43.3583,
+    "lon": -78.6038,
+    "capacity_mw": null,
+    "planned_mw": 600,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Predominantly zero-carbon grid power using transmission from the former Somerset coal plant",
+    "utility": null,
+    "acreage": null,
+    "notes": "TeraWulf's site page lists Lake Mariner as operating, with 600 MW of critical IT capacity, 438 MW contracted, and 162 MW open, on the former 700 MW Somerset coal site. Epoch AI tracks separate Core42 and Anthropic/Fluidstack deployments at 7725 Lake Rd and rates Anthropic as a likely user. Coordinates are that street address. Energized megawatts are lower than the 600 MW campus total; the company page does not state the energized figure.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.terawulf.com/our-sites",
+        "title": "TeraWulf Our Sites",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Cedar Rapids",
+    "aliases": [
+      "Google Edgewood Road"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Cedar Rapids",
+    "county": "Linn",
+    "state": "IA",
+    "lat": 41.918,
+    "lon": -91.7158,
+    "capacity_mw": null,
+    "planned_mw": 600,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": "2026",
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "MISO's December 2024 sheet lists a 600 MW Google data center in Cedar Rapids with a 2026 date. Epoch AI lists the site at 5800 Edgewood Rd SW with no current IT power in its dataset, which is why status is under construction rather than operating. The MISO sheet says it is informational and not for planning reliance. Coordinates are that address.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Penzance Bedington Campus",
+    "aliases": [
+      "Bedington"
+    ],
+    "operator": "Penzance",
+    "owner": "Penzance Management",
+    "tenant": null,
+    "city": "Falling Waters",
+    "county": "Berkeley County",
+    "state": "WV",
+    "lat": 39.56533,
+    "lon": -77.88648,
+    "capacity_mw": null,
+    "planned_mw": 600,
+    "status": "announced",
+    "announced_date": "2026-02",
+    "expected_completion": null,
+    "investment_usd": 4000000000,
+    "power_source": null,
+    "utility": null,
+    "acreage": 548,
+    "notes": "Designated West Virginia first High Impact Intelligence Center on February 26, 2026. The state announcement says 600 MW of critical IT, about 1.9 million square feet, and $4 billion on 548 acres in the Falling Waters district. A tenant and building schedule were not named. Coordinate is Falling Waters and is approximate.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://governor.wv.gov/article/governor-morrisey-announces-4-billion-private-investment-west-virginias-first-high-impact",
+        "title": "Bedington Campus announcement, West Virginia Governor",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://signaldata.org/wv/data-centers/",
+        "title": "Data centers in West Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google West Memphis",
+    "aliases": [
+      "Google Crittenden County"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "West Memphis",
+    "county": "Crittenden County",
+    "state": "AR",
+    "lat": 35.14648,
+    "lon": -90.18454,
+    "capacity_mw": null,
+    "planned_mw": 600,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": 4000000000,
+    "power_source": null,
+    "utility": "Entergy Arkansas",
+    "acreage": 1000,
+    "notes": "Google broke ground on its first Arkansas data center on just over 1,000 acres in West Memphis, described with a $4 billion investment. The campus is listed at 600 MW, but coverage of a 600 MW Entergy solar partnership means that figure may be generation rather than IT load. Coordinate is West Memphis.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ar/data-centers/",
+        "title": "Data centers in Arkansas, SignalData",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://www.datacenterfrontier.com/site-selection/article/55328500/land-expand-hyperscale-ai-factory-megascale",
+        "title": "Google West Memphis groundbreaking, Data Center Frontier",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "STACK Culpeper Technology Campus",
+    "aliases": [
+      "Culpeper Technology Campus"
+    ],
+    "operator": "STACK Infrastructure",
+    "owner": "STACK Infrastructure",
+    "tenant": null,
+    "city": "Culpeper",
+    "county": "Culpeper County",
+    "state": "VA",
+    "lat": 38.47338,
+    "lon": -77.99613,
+    "capacity_mw": null,
+    "planned_mw": 600,
+    "status": "announced",
+    "announced_date": "2023",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": 155,
+    "notes": "Approved campus of about 155 acres with a 600 MW load and more than 2 million square feet. Coordinate is the town of Culpeper and is approximate.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://signaldata.org/va/data-centers/",
+        "title": "Data centers in Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://www.insidenova.com/culpeper/data-center-boom-transforms-culpeper/article_751ced36-5b17-11ef-a52c-cf43381926b5.html",
+        "title": "Culpeper data center boom, InsideNoVa",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Quincy",
+    "aliases": [
+      "Microsoft MWH",
+      "Quincy datacenter campus"
+    ],
+    "operator": "Microsoft",
+    "owner": "Microsoft",
+    "tenant": "Microsoft",
+    "city": "Quincy",
+    "county": "Grant",
+    "state": "WA",
+    "lat": 47.2344,
+    "lon": -119.8535,
+    "capacity_mw": 600,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": "2008",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grant County PUD hydropower",
+    "utility": "Grant County PUD",
+    "acreage": null,
+    "notes": "Microsoft says it built its first datacenter in Quincy in 2008 and now has more than twenty datacenters there, with a city water-reuse plant for cooling. A June 2026 compilation reports 600 MW of power capacity for the campus; other 2026 roundups put the same campus near 500 MW, so the figure is a campus total rather than one building. The pin is the city of Quincy and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/",
+        "title": "Microsoft, Community-first AI infrastructure",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://datacentersexposed.com/facilities/microsoft-quincy",
+        "title": "Microsoft Quincy, DataCentersExposed",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft La Porte",
+    "aliases": [
+      "Microsoft LaPorte"
+    ],
+    "operator": "Microsoft",
+    "owner": "Microsoft",
+    "tenant": "Microsoft",
+    "city": "La Porte",
+    "county": "LaPorte",
+    "state": "IN",
+    "lat": 41.6099,
+    "lon": -86.7217,
+    "capacity_mw": null,
+    "planned_mw": 538,
+    "status": "planned",
+    "announced_date": null,
+    "expected_completion": "2032",
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "MISO's December 2024 sheet lists a Microsoft data center in La Porte, Indiana at 538 MW with a 2032 date, and flags it as a project on the MISO-PJM border. No street address was opened, so the coordinate is the La Porte city center.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Council Bluffs",
+    "aliases": [
+      "Google Council Bluffs East"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Council Bluffs",
+    "county": "Pottawattamie",
+    "state": "IA",
+    "lat": 41.176,
+    "lon": -95.8007,
+    "capacity_mw": 500,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "MISO's December 2024 large-load sheet lists an existing 500 MW Google data center in Council Bluffs. Epoch AI separately estimates 237 MW of current IT power at the east campus address 10410 Bunge Ave. The 500 MW figure is the utility-sheet load for the Council Bluffs campus; the IT estimate is only the portion Epoch tracks. Coordinates are the Bunge Avenue address.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Compass Meridian",
+    "aliases": [
+      "Compass Datacenters Meridian"
+    ],
+    "operator": "Compass Datacenters",
+    "owner": "Compass Datacenters",
+    "tenant": null,
+    "city": "Meridian",
+    "county": "Lauderdale County",
+    "state": "MS",
+    "lat": 32.36431,
+    "lon": -88.70366,
+    "capacity_mw": null,
+    "planned_mw": 500,
+    "status": "planned",
+    "announced_date": "2025-01",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Proposed Compass Datacenters campus in Meridian, listed at 500 MW. Coordinate is Meridian and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ms/data-centers/",
+        "title": "Data centers in Mississippi, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Tract Medina Technology Park",
+    "aliases": [
+      "Tract Medina"
+    ],
+    "operator": "Tract",
+    "owner": "Tract",
+    "tenant": null,
+    "city": "Castroville",
+    "county": "Medina",
+    "state": "TX",
+    "lat": 29.3565,
+    "lon": -98.87888,
+    "capacity_mw": null,
+    "planned_mw": 500,
+    "status": "planned",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": 265,
+    "notes": "Tract's project index lists Medina Technology Park at 265 acres and 500 MW. The pin is Castroville in Medina County and is a county approximation, not a parcel. No tenant is named on the index page.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://www.tract.com/projects/",
+        "title": "Tract projects",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Prologis San Jose wastewater campus",
+    "aliases": [
+      "Prologis Regional Wastewater Facility"
+    ],
+    "operator": "Prologis",
+    "owner": "Prologis",
+    "tenant": null,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "lat": 37.4342,
+    "lon": -121.9466,
+    "capacity_mw": null,
+    "planned_mw": 496,
+    "status": "planned",
+    "announced_date": "2025-11",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "SignalData cites KQED (September 14, 2026) putting a Prologis proposal on San Jose-Santa Clara Regional Wastewater Facility land at 496 MW, and earlier reporting of about 1.7 million square feet of data center space in four buildings. The city council had approved an exclusive negotiating agreement, not a building permit. The pin is the wastewater facility.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ca/data-centers/santa-clara/",
+        "title": "Data centers in Santa Clara County, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Switch Las Vegas Core",
+    "aliases": [
+      "Switch The Core",
+      "Switch SuperNAP Las Vegas"
+    ],
+    "operator": "Switch",
+    "owner": "Switch",
+    "tenant": null,
+    "city": "Las Vegas",
+    "county": "Clark",
+    "state": "NV",
+    "lat": 36.16743,
+    "lon": -115.14841,
+    "capacity_mw": null,
+    "planned_mw": 495,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "100 percent renewable energy, as marketed by Switch",
+    "utility": null,
+    "acreage": null,
+    "notes": "Switch's Las Vegas page says The Core will have up to 495 MW of power upon completion and markets the campus as operating colocation. It does not say how many megawatts are already energized. The pin is the Las Vegas city centroid, not the campus.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://www.switch.com/las-vegas/",
+        "title": "Switch Las Vegas locations",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "TeraWulf Hawesville",
+    "aliases": [
+      "Justified Data campus"
+    ],
+    "operator": "TeraWulf",
+    "owner": "TeraWulf",
+    "tenant": "Anthropic",
+    "city": "Hawesville",
+    "county": "Hancock County",
+    "state": "KY",
+    "lat": 37.90006,
+    "lon": -86.75499,
+    "capacity_mw": null,
+    "planned_mw": 482,
+    "status": "announced",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": "Kentucky Power",
+    "acreage": null,
+    "notes": "Kentucky PSC approved a TeraWulf Hawesville contract in August 2026 with a 482 MW take-or-pay minimum for the first six years. Reporting links the capacity to Anthropic. Coordinate is Hawesville.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ky/data-centers/",
+        "title": "Data centers in Kentucky, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Montgomery",
+    "aliases": [
+      "Meta Montgomery data center"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Montgomery",
+    "county": "Montgomery County",
+    "state": "AL",
+    "lat": 32.37771,
+    "lon": -86.30908,
+    "capacity_mw": null,
+    "planned_mw": 465,
+    "status": "under_construction",
+    "announced_date": "2024",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Meta Montgomery campus under construction. Epoch AI projects about 465 MW of facility power and about 358 MW of IT power if later buildings finish. Those are modeled estimates. Coordinate is Montgomery and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://signaldata.org/al/data-centers/",
+        "title": "Data centers in Alabama, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "NorthMark Spartanburg",
+    "aliases": [
+      "Valara data center",
+      "Project Moc-1"
+    ],
+    "operator": "NorthMark Strategies",
+    "owner": "Valara Holdings",
+    "tenant": null,
+    "city": "Spartanburg",
+    "county": "Spartanburg County",
+    "state": "SC",
+    "lat": 34.9498,
+    "lon": -81.93202,
+    "capacity_mw": null,
+    "planned_mw": 457,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": 2800000000,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Conversion of a former Kohler plant in Spartanburg County, listed at 457 MW and under construction, with investment reported around $2.8 billion. Coordinate is Spartanburg and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/sc/data-centers/",
+        "title": "Data centers in South Carolina, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "EdgeCore Culpeper",
+    "aliases": [
+      "EdgeCore Culpeper Technology Zone"
+    ],
+    "operator": "EdgeCore",
+    "owner": "EdgeCore Digital Infrastructure",
+    "tenant": null,
+    "city": "Culpeper",
+    "county": "Culpeper County",
+    "state": "VA",
+    "lat": 38.47338,
+    "lon": -77.99613,
+    "capacity_mw": 196,
+    "planned_mw": 432,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "EdgeCore Culpeper campus described as operating at 196 MW with 432 MW at build-out. Coordinate is the town of Culpeper, the same approximate town point as the STACK Culpeper campus.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://insidethedatacenter.com/articles/virginia-data-centers/",
+        "title": "Every Data Center in Virginia, Inside the Datacenter",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Applied Digital Delta Forge 1",
+    "aliases": [
+      "Delta Forge 1"
+    ],
+    "operator": "Applied Digital",
+    "owner": "Applied Digital",
+    "tenant": null,
+    "city": "Alexandria",
+    "county": "Rapides Parish",
+    "state": "LA",
+    "lat": 31.31195,
+    "lon": -92.44536,
+    "capacity_mw": null,
+    "planned_mw": 430,
+    "status": "under_construction",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Applied Digital Delta Forge 1 in Rapides Parish, listed at 430 MW and under construction. Coordinate is Alexandria and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/la/data-centers/",
+        "title": "Data centers in Louisiana, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Rome",
+    "aliases": [
+      "Microsoft Huffaker Road"
+    ],
+    "operator": "Microsoft",
+    "owner": "Microsoft",
+    "tenant": "Microsoft",
+    "city": "Rome",
+    "county": "Floyd County",
+    "state": "GA",
+    "lat": 34.25704,
+    "lon": -85.16467,
+    "capacity_mw": null,
+    "planned_mw": 422,
+    "status": "planned",
+    "announced_date": "2026",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Proposed Microsoft campus on Huffaker Road in Floyd County, listed at 422 MW as of October 2026. Coordinate is Rome and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ga/data-centers/",
+        "title": "Data centers in Georgia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "STACK NVA02 Manassas",
+    "aliases": [
+      "STACK Hornbaker"
+    ],
+    "operator": "STACK Infrastructure",
+    "owner": "STACK Infrastructure",
+    "tenant": null,
+    "city": "Manassas",
+    "county": "Prince William County",
+    "state": "VA",
+    "lat": 38.74581,
+    "lon": -77.53772,
+    "capacity_mw": 85,
+    "planned_mw": 420,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Operating campus at 9590 Hornbaker Road, listed at 420 MW at build-out. Epoch AI estimates the first building near 85 MW of IT power. Coordinate is the Hornbaker Road address.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/va/data-centers/",
+        "title": "Data centers in Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Project Van Meter",
+    "aliases": [
+      "Microsoft Van Meter"
+    ],
+    "operator": "Microsoft",
+    "owner": "Microsoft",
+    "tenant": "Microsoft",
+    "city": "Van Meter",
+    "county": "Dallas",
+    "state": "IA",
+    "lat": 41.5312,
+    "lon": -93.951,
+    "capacity_mw": null,
+    "planned_mw": 415,
+    "status": "planned",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "MISO's December 2024 large-load sheet lists Microsoft Project Van Meter at 415 MW with the in-service date left blank. No street address or company release was opened, so the coordinate is the Van Meter town center and confidence is medium. The sheet says it is not for planning reliance.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "PowerHouse Louisville",
+    "aliases": [
+      "Camp Ground Road campus"
+    ],
+    "operator": "PowerHouse Data Centers",
+    "owner": "PowerHouse Data Centers / Poe Companies",
+    "tenant": null,
+    "city": "Louisville",
+    "county": "Jefferson County",
+    "state": "KY",
+    "lat": 38.20552,
+    "lon": -85.85027,
+    "capacity_mw": null,
+    "planned_mw": 402,
+    "status": "under_construction",
+    "announced_date": "2025-01",
+    "expected_completion": "2026-10",
+    "investment_usd": null,
+    "power_source": "LG&E grid via a new switch station and on-site substation",
+    "utility": "Louisville Gas and Electric",
+    "acreage": null,
+    "notes": "Announced January 2025 with 335 MW secured and expansion to 402 MW. First 130 MW was scheduled for October 2026, and August 2026 reporting said construction was underway. Coordinate is Camp Ground Road.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.lanereport.com/178548/2025/01/louisville-will-be-home-to-400-mw-data-center-campus-kys-first/",
+        "title": "Louisville 400 MW campus, The Lane Report",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://signaldata.org/ky/data-centers/",
+        "title": "Data centers in Kentucky, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Applied Digital Polaris Forge 1",
+    "aliases": [
+      "Ellendale",
+      "Polaris Forge 1",
+      "CoreWeave Ellendale"
+    ],
+    "operator": "Applied Digital",
+    "owner": "Applied Digital",
+    "tenant": "CoreWeave",
+    "city": "Ellendale",
+    "county": "Dickey",
+    "state": "ND",
+    "lat": 46.013,
+    "lon": -98.5726,
+    "capacity_mw": 250,
+    "planned_mw": 400,
+    "status": "operational",
+    "announced_date": "2022-09",
+    "expected_completion": "2027",
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Data Center Dynamics reported on October 5, 2026 that Applied Digital had finished the second building at Polaris Forge 1, taking the CoreWeave-leased campus to 250 MW, with 400 MW of IT capacity at full build-out. Construction began in September 2022. Epoch's dataset still showed a much smaller current-power figure and the address 9685 87th Ave SE, which is the coordinate used here. A separate Ellendale cryptomining site is not included.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.datacenterdynamics.com/en/news/applied-digital-adds-75mw-of-capacity-at-ellendale-data-center-campus-in-north-dakota/",
+        "title": "Applied Digital adds 75MW at Ellendale",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Digital Realty Moores Chapel",
+    "aliases": [
+      "Digital Realty Charlotte"
+    ],
+    "operator": "Digital Realty",
+    "owner": "Digital Realty",
+    "tenant": null,
+    "city": "Charlotte",
+    "county": "Mecklenburg County",
+    "state": "NC",
+    "lat": 35.22721,
+    "lon": -80.84308,
+    "capacity_mw": null,
+    "planned_mw": 400,
+    "status": "announced",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Digital Realty Moores Chapel Road campus in Mecklenburg County, listed at 400 MW and approved. Coordinate is Charlotte and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/nc/data-centers/",
+        "title": "Data centers in North Carolina, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Iron Mountain Manassas",
+    "aliases": [
+      "Iron Mountain VA-1 to VA-7"
+    ],
+    "operator": "Iron Mountain",
+    "owner": "Iron Mountain",
+    "tenant": null,
+    "city": "Manassas",
+    "county": "Prince William County",
+    "state": "VA",
+    "lat": 38.79274,
+    "lon": -77.6292,
+    "capacity_mw": null,
+    "planned_mw": 400,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": 142,
+    "notes": "Manassas campus described as seven buildings on 142 acres with more than 400 MW existing and planned. Coordinate is Gainesville, used as the nearest geocoded town center, and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://insidethedatacenter.com/articles/virginia-data-centers/",
+        "title": "Every Data Center in Virginia, Inside the Datacenter",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "AWS Becker",
+    "aliases": [
+      "Amazon Becker"
+    ],
+    "operator": "Amazon",
+    "owner": "Amazon",
+    "tenant": null,
+    "city": "Becker",
+    "county": "Sherburne",
+    "state": "MN",
+    "lat": 45.3936,
+    "lon": -93.8765,
+    "capacity_mw": null,
+    "planned_mw": 383,
+    "status": "announced",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "MISO's December 2024 sheet lists a 383 MW AWS data center in Becker, Minnesota, with the in-service date left blank. It is a separate line from Microsoft's Becker project. The coordinate is the Becker town center, the same approximate pin as the Microsoft Becker entry.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Pryor",
+    "aliases": [
+      "Google Mayes County",
+      "MidAmerica Industrial Park"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Pryor",
+    "county": "Mayes",
+    "state": "OK",
+    "lat": 36.24117,
+    "lon": -95.33005,
+    "capacity_mw": 368,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI lists Google Pryor (North) at 4581 Webb Street in the MidAmerica Industrial Park with an estimated 368 MW of current IT power. The pin matches that building in OpenStreetMap. The megawatt figure is Epoch's IT estimate, not a Google nameplate disclosure.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "xAI Colossus 1",
+    "aliases": [
+      "Colossus",
+      "Boxtown data center"
+    ],
+    "operator": "xAI",
+    "owner": "xAI / SpaceXAI",
+    "tenant": "xAI",
+    "city": "Memphis",
+    "county": "Shelby County",
+    "state": "TN",
+    "lat": 35.06004,
+    "lon": -90.15202,
+    "capacity_mw": 340,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": "2024",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "MLGW grid supply plus permitted natural gas turbines and batteries",
+    "utility": "Memphis Light, Gas and Water",
+    "acreage": null,
+    "notes": "Converted factory at 3231 Paul R. Lowry Road. MLGW reported 150 MW of grid supply in May 2025 toward a 300 MW request, and the county permitted 15 gas turbines totaling 247.2 MW. Epoch AI estimates about 340 MW of IT power. Those figures are not added together. A filing described Colossus and Colossus 2 together at about 1.0 GW of compute.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://signaldata.org/tn/data-centers/",
+        "title": "Data centers in Tennessee, SignalData",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://www.commercialappeal.com/story/money/business/development/2026/07/27/spacexai-investments-data-centers-memphis-mississippi/90278084007/",
+        "title": "SpaceXAI Mid-South data centers, The Commercial Appeal",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google New Albany",
+    "aliases": [
+      "Google Beech Road"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "New Albany",
+    "county": "Licking",
+    "state": "OH",
+    "lat": 40.0603,
+    "lon": -82.7553,
+    "capacity_mw": 333,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI estimates 333 MW of current IT power at 1101 Beech Rd SW, New Albany. No separate full-build figure was stated in the dataset row. Coordinates are that address, in Licking County.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Hut 8 River Bend",
+    "aliases": [
+      "River Bend AI campus"
+    ],
+    "operator": "Hut 8",
+    "owner": "Hut 8",
+    "tenant": null,
+    "city": "St. Francisville",
+    "county": "West Feliciana Parish",
+    "state": "LA",
+    "lat": 30.78072,
+    "lon": -91.37634,
+    "capacity_mw": null,
+    "planned_mw": 330,
+    "status": "under_construction",
+    "announced_date": "2025",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Hut 8 River Bend campus in West Feliciana Parish, listed at 330 MW and under construction. Coordinate is St. Francisville and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/la/data-centers/",
+        "title": "Data centers in Louisiana, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Becker",
+    "aliases": [
+      "Microsoft Sherburne County"
+    ],
+    "operator": "Microsoft",
+    "owner": "Microsoft",
+    "tenant": "Microsoft",
+    "city": "Becker",
+    "county": "Sherburne",
+    "state": "MN",
+    "lat": 45.3936,
+    "lon": -93.8765,
+    "capacity_mw": null,
+    "planned_mw": 325,
+    "status": "announced",
+    "announced_date": null,
+    "expected_completion": "2026",
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "MISO's December 2024 sheet lists a 325 MW Microsoft data center in Becker, Minnesota with a 2026 date. It is listed separately from a 383 MW AWS project in the same city. The coordinate is the Becker town center and is shared with the AWS Becker entry because neither street address was opened.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "TeraWulf Lake Hawkeye",
+    "aliases": [
+      "Cayuga",
+      "Lake Hawkeye Lansing"
+    ],
+    "operator": "TeraWulf",
+    "owner": "TeraWulf",
+    "tenant": null,
+    "city": "Lansing",
+    "county": "Tompkins",
+    "state": "NY",
+    "lat": 42.577,
+    "lon": -76.6094,
+    "capacity_mw": null,
+    "planned_mw": 320,
+    "status": "planned",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Predominantly zero-carbon grid power on the former Cayuga coal plant transmission",
+    "utility": null,
+    "acreage": 183,
+    "notes": "TeraWulf says Lake Hawkeye is in permitting at the former Cayuga coal plant in Lansing, with 320 MW of critical IT capacity, none of it contracted, on a 183-acre site under long-term lease. Coordinates are a geocode of the Cayuga Generating Station area and are approximate.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.terawulf.com/our-sites",
+        "title": "TeraWulf Our Sites",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Rosemount",
+    "aliases": [
+      "Meta Dakota County"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Rosemount",
+    "county": "Dakota",
+    "state": "MN",
+    "lat": 44.7389,
+    "lon": -93.1081,
+    "capacity_mw": 178,
+    "planned_mw": 308,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": "2026",
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI estimates 178 MW of current IT power for Meta along 145th Street in Rosemount and cites Meta's announcement plus an air permit. MISO's December 2024 sheet lists 308 MW for Meta in Rosemount, spelled Rosemont on the sheet, with a 2026 date. Coordinates are 2100 145th St W, inside the address range Epoch gives.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Columbus",
+    "aliases": [
+      "Google Lockbourne"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Columbus",
+    "county": "Franklin",
+    "state": "OH",
+    "lat": 39.8567,
+    "lon": -83.0023,
+    "capacity_mw": 303,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI estimates 303 MW of current IT power at 5076 S High St and cites an AEP transmission filing for expansion headroom, but a single full-build megawatt figure was not stated in the dataset row. The street address geocodes to Lockbourne in Franklin County. Coordinates are that geocode.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "CoreWeave Lancaster",
+    "aliases": [
+      "CoreWeave Pennsylvania"
+    ],
+    "operator": "Chirisa Technology Parks / Machine Investment Group",
+    "owner": null,
+    "tenant": "CoreWeave",
+    "city": "Lancaster",
+    "county": "Lancaster",
+    "state": "PA",
+    "lat": 40.0479,
+    "lon": -76.2606,
+    "capacity_mw": null,
+    "planned_mw": 300,
+    "status": "announced",
+    "announced_date": "2025-07",
+    "expected_completion": null,
+    "investment_usd": 6000000000,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "CoreWeave said on July 15, 2025 that it intends to commit up to $6 billion to equip a Lancaster data center, starting at 100 MW with potential to expand to 300 MW. CoreWeave is the tenant; Chirisa Technology Parks and Machine Investment Group are the co-developers. Epoch AI associates the project with 216 Greenfield Rd, which is the coordinate used here. Construction status after the announcement was not confirmed in the sources opened.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx",
+        "title": "CoreWeave Pennsylvania AI infrastructure commitment",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Nebius Vineland",
+    "aliases": [
+      "Nebius New Jersey",
+      "Microsoft-Nebius New Jersey"
+    ],
+    "operator": "Nebius",
+    "owner": "Nebius",
+    "tenant": "Microsoft",
+    "city": "Vineland",
+    "county": "Cumberland",
+    "state": "NJ",
+    "lat": 39.4281,
+    "lon": -75.0186,
+    "capacity_mw": 50,
+    "planned_mw": 300,
+    "status": "operational",
+    "announced_date": "2025-03",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Nebius said on March 5, 2025 that it had commissioned a new New Jersey data center expandable to 300 MW, with first capacity expected as early as summer 2025. Epoch AI places the site at 3963 S Lincoln Ave, Vineland, estimates 50 MW of current IT power, and marks Microsoft as a likely user. Coordinates are that address.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://nebius.com/newsroom/nebius-accelerates-us-expansion-adding-up-to-300-mw-capacity-at-new-data-center-in-new-jersey",
+        "title": "Nebius New Jersey data center announcement",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Gallatin",
+    "aliases": [
+      "Meta Gallatin data center"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Gallatin",
+    "county": "Sumner County",
+    "state": "TN",
+    "lat": 36.3883,
+    "lon": -86.44759,
+    "capacity_mw": 87,
+    "planned_mw": 300,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Operating Meta campus in Gallatin. Epoch AI estimates about 87 MW of IT power in the first building. A state compilation lists 300 MW for the campus, which was not matched to a company filing, so that larger figure is less certain. Coordinate is Gallatin and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://signaldata.org/tn/data-centers/",
+        "title": "Data centers in Tennessee, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Nebius Birmingham",
+    "aliases": [
+      "BHM01"
+    ],
+    "operator": "Nebius",
+    "owner": "Nebius",
+    "tenant": "Nebius",
+    "city": "Birmingham",
+    "county": "Jefferson County",
+    "state": "AL",
+    "lat": 33.52068,
+    "lon": -86.80243,
+    "capacity_mw": null,
+    "planned_mw": 300,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Nebius Birmingham AI factory listed at 300 MW and under construction in the Oxmoor area. A neighbor lawsuit was pending. Coordinate is Birmingham and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/al/data-centers/",
+        "title": "Data centers in Alabama, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "QTS York County",
+    "aliases": [
+      "QTS Rock Hill"
+    ],
+    "operator": "QTS",
+    "owner": "QTS / Blackstone",
+    "tenant": null,
+    "city": "Rock Hill",
+    "county": "York County",
+    "state": "SC",
+    "lat": 34.92487,
+    "lon": -81.02508,
+    "capacity_mw": null,
+    "planned_mw": 300,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": 1000000000,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "QTS campus under construction in York County. The Charlotte Observer reported a $1 billion investment. A grid compilation lists 300 MW, which was not confirmed in a QTS filing, so that figure is uncertain. Coordinate is Rock Hill and is approximate.",
+    "confidence": "low",
+    "sources": [
+      {
+        "url": "https://signaldata.org/sc/data-centers/",
+        "title": "Data centers in South Carolina, SignalData",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://www.charlotteobserver.com/news/business/article312911052.html",
+        "title": "Carolina data centers, Charlotte Observer",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://datacenterrecord.org/grid/srvc-s",
+        "title": "SERC Virginia and Carolina South, Data Center Record",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Cielo Gaffney",
+    "aliases": [
+      "Cielo Cherokee County"
+    ],
+    "operator": "Cielo Digital Infrastructure",
+    "owner": "Cielo Digital Infrastructure",
+    "tenant": null,
+    "city": "Gaffney",
+    "county": "Cherokee County",
+    "state": "SC",
+    "lat": 35.07179,
+    "lon": -81.64982,
+    "capacity_mw": null,
+    "planned_mw": 300,
+    "status": "announced",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": 2100000000,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Approved Cielo campus in Gaffney listed at 300 MW, with investment reported around $2.1 billion. Coordinate is Gaffney.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/sc/data-centers/",
+        "title": "Data centers in South Carolina, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "PowerHouse Charlotte",
+    "aliases": [
+      "PowerHouse University City"
+    ],
+    "operator": "PowerHouse Data Centers",
+    "owner": "PowerHouse Data Centers",
+    "tenant": null,
+    "city": "Charlotte",
+    "county": "Mecklenburg County",
+    "state": "NC",
+    "lat": 35.22721,
+    "lon": -80.84308,
+    "capacity_mw": null,
+    "planned_mw": 300,
+    "status": "announced",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "PowerHouse Charlotte campus listed at 300 MW and approved. Coordinate is the Charlotte city point, the same approximate point as Digital Realty Moores Chapel.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/nc/data-centers/",
+        "title": "Data centers in North Carolina, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "AWS Attalia",
+    "aliases": [
+      "Amazon Attalia Data Center Campus",
+      "Wallula Gap"
+    ],
+    "operator": "Amazon Web Services",
+    "owner": "Amazon Data Services",
+    "tenant": "Amazon Web Services",
+    "city": "Attalia",
+    "county": "Walla Walla",
+    "state": "WA",
+    "lat": 46.1079,
+    "lon": -118.92,
+    "capacity_mw": null,
+    "planned_mw": 300,
+    "status": "announced",
+    "announced_date": "2026-02",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": 134,
+    "notes": "DatacenterDynamics reported on November 5, 2026 that county documents name AWS as the developer of the Attalia campus at the Port of Walla Walla: three 220,000-square-foot buildings on 134 acres with 300 MW. That is a scale-back of an earlier 16-building concept. The county had not made a final land-use decision, and the pin is the town of Attalia.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.datacenterdynamics.com/en/news/aws-proceeds-with-data-center-project-in-walla-walla-washington/",
+        "title": "AWS proceeds with data center project in Walla Walla, DatacenterDynamics",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Bristow",
+    "aliases": [
+      "Google Rollins Ford"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Bristow",
+    "county": "Prince William County",
+    "state": "VA",
+    "lat": 38.73116,
+    "lon": -77.54802,
+    "capacity_mw": 238,
+    "planned_mw": 286,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Operating Google campus on Rollins Ford Road. Epoch AI estimates about 238 MW of IT power and about 286 MW of facility power across three buildings as of May 2026. Coordinate is the town of Bristow and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "QTS Atlanta Jefferson Street",
+    "aliases": [
+      "QTS Atlanta-1"
+    ],
+    "operator": "QTS",
+    "owner": "QTS / Blackstone",
+    "tenant": null,
+    "city": "Atlanta",
+    "county": "Fulton County",
+    "state": "GA",
+    "lat": 33.77719,
+    "lon": -84.41955,
+    "capacity_mw": 278,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Operating QTS campus at 1025 Jefferson Street NW, listed at 278 MW. An xAI cluster in the building is far smaller and is not a separate campus. Coordinate is the street address.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ga/data-centers/",
+        "title": "Data centers in Georgia, SignalData",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Core Scientific Denton",
+    "aliases": [
+      "CoreWeave Denton"
+    ],
+    "operator": "Core Scientific",
+    "owner": "Core Scientific",
+    "tenant": "CoreWeave",
+    "city": "Denton",
+    "county": "Denton",
+    "state": "TX",
+    "lat": 33.21927,
+    "lon": -97.1809,
+    "capacity_mw": 260,
+    "planned_mw": 260,
+    "status": "operational",
+    "announced_date": "2025-02",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Core Scientific said on February 26, 2025 that an additional 70 MW at Denton raised CoreWeave's contracted critical IT load there to about 260 MW. Epoch AI lists the site at 8171 Jim Christal Road with about 262 MW of current IT power and OpenAI as a likely user. The pin is Jim Christal Road, not a building outline.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://investors.corescientific.com/news-events/press-releases/detail/110/core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site",
+        "title": "Core Scientific and CoreWeave Denton expansion",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Cipher Barber Lake",
+    "aliases": [
+      "Cipher Colorado City"
+    ],
+    "operator": "Cipher Mining",
+    "owner": "Cipher Mining",
+    "tenant": "Fluidstack",
+    "city": "Colorado City",
+    "county": "Mitchell",
+    "state": "TX",
+    "lat": 32.39303,
+    "lon": -100.86351,
+    "capacity_mw": null,
+    "planned_mw": 244,
+    "status": "under_construction",
+    "announced_date": "2025-09",
+    "expected_completion": "2026",
+    "investment_usd": null,
+    "power_source": "Grid; site described as already energized for the initial agreement",
+    "utility": null,
+    "acreage": 587,
+    "notes": "Cipher said on September 25, 2025 that it would deliver 168 MW of critical IT load, supported by up to 244 MW gross, to Fluidstack at Barber Lake in Colorado City, with delivery then expected by September 2026. The same release cites 587 acres and potential for 500 MW of further capacity, and a Google backstop of $1.4 billion of lease obligations. The pin is the Colorado City centroid. A later expansion of the lease was reported but that release was not opened, so 244 MW gross is the figure used.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://investors.cipherdigital.com/news-releases/news-release-details/cipher-mining-signs-168-mw-10-year-ai-hosting-agreement/",
+        "title": "Cipher Mining 168 MW Fluidstack agreement at Barber Lake",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Equinix Hampton xScale",
+    "aliases": [
+      "Equinix Hampton"
+    ],
+    "operator": "Equinix",
+    "owner": "Equinix xScale joint venture",
+    "tenant": null,
+    "city": "Hampton",
+    "county": "Henry County",
+    "state": "GA",
+    "lat": 33.38706,
+    "lon": -84.28298,
+    "capacity_mw": null,
+    "planned_mw": 240,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Equinix xScale campus in Hampton, listed at 240 MW and under construction. Coordinate is Hampton and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ga/data-centers/",
+        "title": "Data centers in Georgia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Abernathy HPC campus",
+    "aliases": [
+      "TeraWulf Abernathy",
+      "Fluidstack Abernathy"
+    ],
+    "operator": "TeraWulf / Fluidstack",
+    "owner": "TeraWulf / Fluidstack",
+    "tenant": "Fluidstack",
+    "city": "Abernathy",
+    "county": "Hale",
+    "state": "TX",
+    "lat": 33.83238,
+    "lon": -101.84302,
+    "capacity_mw": null,
+    "planned_mw": 240,
+    "status": "under_construction",
+    "announced_date": "2025-10",
+    "expected_completion": "2026",
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "TeraWulf said on October 28, 2025 that a joint venture with Fluidstack would deliver 168 MW of critical IT load, 240 MW gross, at Abernathy in the second half of 2026, under a 25-year lease worth about $9.5 billion, with Google backing about $1.3 billion of obligations. The release gives the venture a right to later phases beyond 168 MW. The pin is the town of Abernathy. Later reporting that TeraWulf agreed to sell its stake was not the page used for these figures.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://investors.terawulf.com/news-events/press-releases/detail/121/terawulf-expands-strategic-partnership-with-fluidstack-through-new-168-mw-ai-compute-joint-venture",
+        "title": "TeraWulf and Fluidstack 168 MW Abernathy joint venture",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Omaha",
+    "aliases": [
+      "Google State Street"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Omaha",
+    "county": "Douglas",
+    "state": "NE",
+    "lat": 41.3394,
+    "lon": -96.0861,
+    "capacity_mw": 237,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI estimates 237 MW of current IT power at 11110 State St, Omaha, citing an air-permit basis document for cooling equipment. Coordinates are that address in Douglas County.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Papillion",
+    "aliases": [
+      "Google Gold Coast Road",
+      "Google Sarpy"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Papillion",
+    "county": "Sarpy",
+    "state": "NE",
+    "lat": 41.14,
+    "lon": -96.1492,
+    "capacity_mw": 237,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI estimates 237 MW of current IT power on Gold Coast Road in Papillion, Sarpy County. The geocoded point for 14900 Gold Coast Rd uses an Omaha mailing city but falls in Sarpy County. Coordinates are that point.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "T5@Atlanta",
+    "aliases": [
+      "T5 Douglasville"
+    ],
+    "operator": "T5 Data Centers",
+    "owner": "T5 Data Centers",
+    "tenant": null,
+    "city": "Douglasville",
+    "county": "Douglas County",
+    "state": "GA",
+    "lat": 33.7515,
+    "lon": -84.74771,
+    "capacity_mw": 220,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Operating T5 campus in Douglas County, listed at 220 MW. Coordinate is Douglasville and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ga/data-centers/",
+        "title": "Data centers in Georgia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "AWS New Albany",
+    "aliases": [
+      "Amazon New Albany",
+      "Amazon Johnstown"
+    ],
+    "operator": "Amazon",
+    "owner": "Amazon",
+    "tenant": null,
+    "city": "New Albany",
+    "county": "Licking",
+    "state": "OH",
+    "lat": 40.1158,
+    "lon": -82.7393,
+    "capacity_mw": 213,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI estimates 213 MW of current IT power for AWS at 13360 Miller Rd NW in the New Albany area and cites city project updates and a reported $3.5 billion local tax deal. The geocoder places that address in Johnstown, Licking County, on the edge of the New Albany area. A full build-out above the current IT estimate was not stated in the dataset row.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Applied Digital Delta Forge 2",
+    "aliases": [
+      "Applied Digital Brookwood"
+    ],
+    "operator": "Applied Digital",
+    "owner": "Applied Digital",
+    "tenant": null,
+    "city": "Brookwood",
+    "county": "Tuscaloosa County",
+    "state": "AL",
+    "lat": 33.25567,
+    "lon": -87.32083,
+    "capacity_mw": null,
+    "planned_mw": 210,
+    "status": "announced",
+    "announced_date": "2026-09",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Applied Digital Brookwood campus, confirmed by the company in September 2026 and listed at 210 MW, with county tax abatements. Coordinate is Brookwood.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/al/data-centers/",
+        "title": "Data centers in Alabama, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Vantage Ashburn I",
+    "aliases": [
+      "Vantage VA1"
+    ],
+    "operator": "Vantage Data Centers",
+    "owner": "Vantage Data Centers",
+    "tenant": null,
+    "city": "Ashburn",
+    "county": "Loudoun County",
+    "state": "VA",
+    "lat": 39.02978,
+    "lon": -77.47441,
+    "capacity_mw": 206,
+    "planned_mw": 206,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Vantage Ashburn I is described as six buildings and 206 MW when complete, and it is listed as operating. A separate Ashburn III proposal is not included. Coordinate is the town of Ashburn and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/va/data-centers/",
+        "title": "Data centers in Virginia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Goodyear",
+    "aliases": [
+      "Microsoft PHX10-11"
+    ],
+    "operator": "Microsoft",
+    "owner": "Microsoft",
+    "tenant": "Microsoft",
+    "city": "Goodyear",
+    "county": "Maricopa",
+    "state": "AZ",
+    "lat": 33.40899,
+    "lon": -112.3648,
+    "capacity_mw": 202,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI lists Microsoft Goodyear at 14250 W Broadway Road with an estimated 202 MW of current IT power. OpenStreetMap labels that address as building PHX-11. The megawatt figure is Epoch's IT estimate. This is a separate campus from Microsoft's El Mirage site, which was not given a verified megawatt total here.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Jeffersonville",
+    "aliases": [
+      "Meta River Ridge"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Jeffersonville",
+    "county": "Clark",
+    "state": "IN",
+    "lat": 38.3568,
+    "lon": -85.6638,
+    "capacity_mw": 178,
+    "planned_mw": 200,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": "2026",
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI estimates 178 MW of current IT power and lists 500 8th St. MISO's December 2024 large-load sheet lists a 200 MW Meta data center in Jeffersonville with a 2026 date. Coordinates are the River Ridge Commerce Center pin, used because a geocode of 500 8th St landed on a downtown address that may not be the campus.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf",
+        "title": "MISO new load announcements, updated December 6, 2024",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Compass Hoffman Estates",
+    "aliases": [
+      "Compass Chicago"
+    ],
+    "operator": "Compass Datacenters",
+    "owner": "Compass Datacenters",
+    "tenant": null,
+    "city": "Hoffman Estates",
+    "county": "Cook",
+    "state": "IL",
+    "lat": 42.063,
+    "lon": -88.1229,
+    "capacity_mw": null,
+    "planned_mw": 200,
+    "status": "announced",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Compass lists a 200 MW campus in Hoffman Estates, 30 miles west of Chicago, among its data center markets. The page does not say whether the campus is operating, under construction, or still planned, and it does not give a street address. Coordinates are the Hoffman Estates city center.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://www.compassdatacenters.com/data-center-markets/",
+        "title": "Compass Datacenters markets",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Aiken",
+    "aliases": [
+      "Meta Sage Mill",
+      "Meta Trenton"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Graniteville",
+    "county": "Aiken County",
+    "state": "SC",
+    "lat": 33.56375,
+    "lon": -81.80789,
+    "capacity_mw": 129,
+    "planned_mw": 200,
+    "status": "operational",
+    "announced_date": "2024",
+    "expected_completion": null,
+    "investment_usd": 800000000,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Meta campus at Sage Mill near Graniteville. Compilations list about 200 MW. Epoch AI estimates about 129 MW of IT power by November 2026. Coordinate is Graniteville and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://signaldata.org/sc/data-centers/",
+        "title": "Data centers in South Carolina, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Berkeley County",
+    "aliases": [
+      "Google Moncks Corner"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Moncks Corner",
+    "county": "Berkeley County",
+    "state": "SC",
+    "lat": 33.196,
+    "lon": -80.01314,
+    "capacity_mw": 200,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Operating Google campus at Moncks Corner. A grid compilation lists 200 MW. Separate Dorchester County Google construction is not included. Coordinate is Moncks Corner.",
+    "confidence": "low",
+    "sources": [
+      {
+        "url": "https://datacenterrecord.org/grid/srvc-s",
+        "title": "SERC Virginia and Carolina South, Data Center Record",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Huntsville",
+    "aliases": [
+      "Meta Toney"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Toney",
+    "county": "Madison County",
+    "state": "AL",
+    "lat": 34.89814,
+    "lon": -86.73357,
+    "capacity_mw": 146,
+    "planned_mw": 198,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Meta campus at Prosperity Drive in Toney. Epoch AI estimates about 146 MW of IT power and about 198 MW of facility power with two buildings. Coordinate is Toney and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://signaldata.org/al/data-centers/",
+        "title": "Data centers in Alabama, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Mesa",
+    "aliases": [
+      "Google Project Redhawk"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Mesa",
+    "county": "Maricopa",
+    "state": "AZ",
+    "lat": 33.4151,
+    "lon": -111.83146,
+    "capacity_mw": 183,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI lists Google Mesa with an estimated 183 MW of current IT power and cites construction reporting for a first and second building. No street address is in the database row. The pin is the Mesa city centroid and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "QTS Hillsboro 2",
+    "aliases": [
+      "Meta QTS Hillsboro"
+    ],
+    "operator": "QTS",
+    "owner": "QTS",
+    "tenant": "Meta",
+    "city": "Hillsboro",
+    "county": "Washington",
+    "state": "OR",
+    "lat": 45.52289,
+    "lon": -122.98983,
+    "capacity_mw": 180,
+    "planned_mw": 180,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": "Portland General Electric",
+    "acreage": 51,
+    "notes": "QTS's U.S. location index lists Hillsboro 2 at 51 acres and 180 MW or more. Epoch AI lists Meta-QTS Hillsboro 2 at 4755 NE Huffman Street with 180 MW of IT power and Meta as the likely tenant, and names Portland General Electric among the energy companies. The pin is the Hillsboro city centroid, not Huffman Street. QTS also lists a smaller Hillsboro 1 site at 20 MW-plus, which is below this file's cutoff and is not merged here.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://q.com/us-locations/",
+        "title": "QTS U.S. locations",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Temple",
+    "aliases": [
+      "Meta Temple data center"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Temple",
+    "county": "Bell",
+    "state": "TX",
+    "lat": 31.12596,
+    "lon": -97.35982,
+    "capacity_mw": 178,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI lists Meta Temple at 2310 Eberhardt Road with an estimated 178 MW of current IT power. Epoch's source notes cite a contractor page that mentions 152 MW, so the two public figures do not match. The pin is the street address.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "QTS Irving",
+    "aliases": [],
+    "operator": "QTS",
+    "owner": "QTS",
+    "tenant": null,
+    "city": "Irving",
+    "county": "Dallas",
+    "state": "TX",
+    "lat": 32.82952,
+    "lon": -96.94422,
+    "capacity_mw": null,
+    "planned_mw": 165,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": 56,
+    "notes": "QTS's location index lists Irving, Texas, at 56 acres and 165 MW or more. It does not publish a street address or an energized-versus-planned split. The pin is the Irving city centroid.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://q.com/us-locations/",
+        "title": "QTS U.S. locations",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Storey County",
+    "aliases": [
+      "Google Tahoe Reno"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Sparks",
+    "county": "Storey",
+    "state": "NV",
+    "lat": 39.45722,
+    "lon": -119.5158,
+    "capacity_mw": 161,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI lists Google Storey County with an estimated 161 MW of current IT power and no street address in the database row. The pin is the Storey County centroid, not the building. Sparks is the nearest large city and is in neighboring Washoe County.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "QTS Aurora",
+    "aliases": [
+      "QTS Denver"
+    ],
+    "operator": "QTS",
+    "owner": "QTS",
+    "tenant": null,
+    "city": "Aurora",
+    "county": "Adams",
+    "state": "CO",
+    "lat": 39.74014,
+    "lon": -104.87334,
+    "capacity_mw": null,
+    "planned_mw": 160,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": 65,
+    "notes": "QTS's location index lists Denver in Aurora, Colorado, at 65 acres and 160 MW or more. The page does not split energized versus planned power. The pin is the Aurora city centroid. OpenStreetMap places that city point in Adams County; the campus near Denver International Airport may sit in a neighboring county.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://q.com/us-locations/",
+        "title": "QTS U.S. locations",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google The Dalles",
+    "aliases": [
+      "Google Dallesport"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "The Dalles",
+    "county": "Wasco",
+    "state": "OR",
+    "lat": 45.62539,
+    "lon": -121.20239,
+    "capacity_mw": 154,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid, largely hydro",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI lists Google The Dalles at 3500 River Road with an estimated 154 MW of current IT power. The pin is River Road, not a building footprint. Other directories publish higher campus totals that were not used because they were not opened.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Kuna",
+    "aliases": [
+      "Meta Kuna data center"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Kuna",
+    "county": "Ada",
+    "state": "ID",
+    "lat": 43.49183,
+    "lon": -116.42012,
+    "capacity_mw": 152,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": "Idaho Power",
+    "acreage": null,
+    "notes": "Epoch AI lists Meta Kuna at 601 Kuna Mora Road with an estimated 152 MW of current IT power and Idaho Power as the energy company. The pin is the city of Kuna, not the street address. The megawatt figure is Epoch's IT estimate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Cheyenne",
+    "aliases": [
+      "Meta Cheyenne data center"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Cheyenne",
+    "county": "Laramie",
+    "state": "WY",
+    "lat": 41.13998,
+    "lon": -104.82025,
+    "capacity_mw": null,
+    "planned_mw": 152,
+    "status": "under_construction",
+    "announced_date": "2024-07",
+    "expected_completion": "2027",
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI lists Meta Cheyenne with 152 MW in its current-power field and points to a 2024 introduction plus a press item suggesting a 2027 operational date. Because that date was still in the future relative to a fully finished campus, this entry treats 152 MW as the planned IT figure rather than confirmed live load. The pin is the Cheyenne city centroid. This is separate from Microsoft's Cheyenne campus.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Lincoln",
+    "aliases": [
+      "Google Cloud Court"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Lincoln",
+    "county": "Lancaster",
+    "state": "NE",
+    "lat": 40.9054,
+    "lon": -96.6516,
+    "capacity_mw": 141,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI estimates 141 MW of current IT power at 5475 Cloud Ct, Lincoln, and describes a multi-phase construction plan in the Army Corps record it cites. Coordinates are that address in Lancaster County, Nebraska.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Lancaster Ohio",
+    "aliases": [
+      "Google Whiley Road"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Lancaster",
+    "county": "Fairfield",
+    "state": "OH",
+    "lat": 39.7238,
+    "lon": -82.6884,
+    "capacity_mw": 137,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI estimates 137 MW of current IT power at 105 Whiley Rd, Lancaster, Ohio. Coordinates are that address in Fairfield County.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Eagle Mountain",
+    "aliases": [
+      "Meta Eagle Mountain data center"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Eagle Mountain",
+    "county": "Utah",
+    "state": "UT",
+    "lat": 40.30935,
+    "lon": -112.01198,
+    "capacity_mw": 133,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid, with an adjacent gas-fired plant reported by Epoch",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI lists Meta Eagle Mountain at 1275 N Community Circle with an estimated 133 MW of current IT power. Epoch's notes also cite a gas-fired power plant under construction next to the campus. The pin is the Eagle Mountain city centroid. This is separate from the QTS campus in the same city, which did not publish a megawatt figure on the QTS page that was opened.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Los Lunas",
+    "aliases": [
+      "Meta Los Lunas data center"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Los Lunas",
+    "county": "Valencia",
+    "state": "NM",
+    "lat": 34.81421,
+    "lon": -106.76131,
+    "capacity_mw": 118,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI lists Meta Los Lunas at 4250 Messenger Loop with an estimated 118 MW of current IT power. The pin is the Los Lunas city centroid, not the street address. The megawatt figure is Epoch's IT estimate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "CoreWeave Chester",
+    "aliases": [
+      "PowerHouse Meadowville"
+    ],
+    "operator": "CoreWeave",
+    "owner": "PowerHouse Data Centers",
+    "tenant": "CoreWeave",
+    "city": "Chester",
+    "county": "Chesterfield County",
+    "state": "VA",
+    "lat": 37.34895,
+    "lon": -77.43838,
+    "capacity_mw": 82,
+    "planned_mw": 113,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "CoreWeave halls at Meadowville Technology Park in Chester, formerly Capital One. Epoch AI estimates about 82 MW of IT power online, toward about 113 MW when a third building finishes. Coordinate is Chester and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "AWS Susquehanna Cumulus",
+    "aliases": [
+      "AWS Berwick",
+      "Cumulus Data campus",
+      "Amazon Salem Township"
+    ],
+    "operator": "Amazon",
+    "owner": "Amazon",
+    "tenant": "Amazon",
+    "city": "Berwick",
+    "county": "Luzerne",
+    "state": "PA",
+    "lat": 41.0838,
+    "lon": -76.1435,
+    "capacity_mw": 108,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Susquehanna nuclear generation contracted from Talen and delivered through the grid by PPL; the earlier behind-the-meter arrangement was 300 MW",
+    "utility": "PPL Electric Utilities",
+    "acreage": null,
+    "notes": "Epoch AI estimates 108 MW of current IT power at 1125 Electron Ave, Berwick, beside the Susquehanna plant. In June 2025 Talen said a new contract will supply up to 1,920 MW from Susquehanna to Amazon data centers across Pennsylvania through 2042, ramping from the existing 300 MW co-located arrangement. That 1,920 MW is not documented here as this campus's own full build-out. Coordinates are the Electron Avenue address.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.utilitydive.com/news/talen-amazon-aws-susquehanna-nuclear-data-centert/750440/",
+        "title": "Talen to sell Amazon 1.9 GW from Susquehanna",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Kansas City",
+    "aliases": [
+      "Google Hunt Midwest",
+      "Google Kansas City East"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Kansas City",
+    "county": "Clay",
+    "state": "MO",
+    "lat": 39.1574,
+    "lon": -94.479,
+    "capacity_mw": 105,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": "2024-03",
+    "expected_completion": null,
+    "investment_usd": 1000000000,
+    "power_source": "Grid; Google also announced a 400 MW solar power-purchase agreement with Ranger Power and DESRI for the Beavertail Solar farm",
+    "utility": "Evergy",
+    "acreage": null,
+    "notes": "Hunt Midwest said on March 20, 2024 that Google would build a $1 billion data center at Hunt Midwest Business Center, and Evergy's CEO said the utility would power it. Epoch AI estimates 105 MW of current IT power for Google Kansas City East and does not publish a street address. Coordinates are the SubTropolis pin in Clay County and may only approximate the data center parcel.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://huntmidwest.com/2024/03/google-announces-1-billion-data-center-at-hunt-midwest-business-center/",
+        "title": "Google announces $1 billion data center at Hunt Midwest",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Midlothian",
+    "aliases": [
+      "Google Ellis County Midlothian"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Midlothian",
+    "county": "Ellis",
+    "state": "TX",
+    "lat": 32.44757,
+    "lon": -97.05573,
+    "capacity_mw": 103,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": "2019",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Google's Texas data center page says Midlothian, announced in 2019, is one of two operating Ellis County locations and that the November 2025 $40 billion Texas program includes further Ellis County expansion. Epoch AI estimates 103 MW of current IT power at 3250 Railport Parkway. The pin is Railport Parkway. No expanded megawatt total was stated on Google's page.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://datacenters.google/locations/texas/",
+        "title": "Google data centers in Texas",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google LaGrange",
+    "aliases": [
+      "Google Troup County"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "LaGrange",
+    "county": "Troup County",
+    "state": "GA",
+    "lat": 33.03929,
+    "lon": -85.03133,
+    "capacity_mw": null,
+    "planned_mw": 100,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Google data center in LaGrange, under construction and listed at 100 MW. Coordinate is LaGrange and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ga/data-centers/",
+        "title": "Data centers in Georgia, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Apple Maiden",
+    "aliases": [
+      "Apple Catawba data center"
+    ],
+    "operator": "Apple",
+    "owner": "Apple",
+    "tenant": "Apple",
+    "city": "Maiden",
+    "county": "Catawba County",
+    "state": "NC",
+    "lat": 35.5766,
+    "lon": -81.21392,
+    "capacity_mw": 100,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": "2009",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Operating since 2010. The Charlotte Observer reported capacity for 100 MW, with four main buildings and more than 1 million square feet. Coordinate is Maiden.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.charlotteobserver.com/news/business/article312911052.html",
+        "title": "Carolina data centers, Charlotte Observer",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Core Scientific Muskogee",
+    "aliases": [
+      "CoreWeave Muskogee"
+    ],
+    "operator": "Core Scientific",
+    "owner": "Core Scientific",
+    "tenant": "CoreWeave",
+    "city": "Muskogee",
+    "county": "Muskogee",
+    "state": "OK",
+    "lat": 35.7458,
+    "lon": -95.41884,
+    "capacity_mw": null,
+    "planned_mw": 100,
+    "status": "under_construction",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI lists CoreWeave Muskogee at 1525 W 43rd Street South with no current IT power, and its source line points to a Core Scientific and Port Muskogee groundbreaking for a 100 MW HPC data center. The pin is a Muskogee city point, not that street address. The 100 MW figure comes from the title of the source cited in the Epoch row, not from a press release opened separately.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "STACK SVY01 San Jose",
+    "aliases": [
+      "STACK SVY01"
+    ],
+    "operator": "STACK Infrastructure",
+    "owner": "STACK Infrastructure",
+    "tenant": null,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "lat": 37.4016,
+    "lon": -121.8954,
+    "capacity_mw": null,
+    "planned_mw": 100,
+    "status": "under_construction",
+    "announced_date": "2024-03",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": 19,
+    "notes": "SignalData says STACK lists four buildings on 19 acres and 100 MW for SVY01. As of the November 2026 roundup, two buildings were described as operating and two still under construction. The pin is 1849 Fortune Drive, given for building SVY01C.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ca/data-centers/santa-clara/",
+        "title": "Data centers in Santa Clara County, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Menlo Equities Charlotte Drive",
+    "aliases": [],
+    "operator": "Menlo Equities",
+    "owner": "Menlo Equities",
+    "tenant": null,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "lat": 37.2431,
+    "lon": -121.7988,
+    "capacity_mw": null,
+    "planned_mw": 99.7,
+    "status": "planned",
+    "announced_date": "2026-08",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "SignalData cites an August 7, 2026 Bay Area News Group report of a Menlo Equities plan for about 444,400 square feet and 99.7 MW at Charlotte Drive, with public open space at Charlotte and Lexington. The pin is Charlotte Drive and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ca/data-centers/santa-clara/",
+        "title": "Data centers in Santa Clara County, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Alviso",
+    "aliases": [
+      "Microsoft San Jose Data Center"
+    ],
+    "operator": "Microsoft",
+    "owner": "Microsoft",
+    "tenant": "Microsoft",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "lat": 37.4261,
+    "lon": -121.9752,
+    "capacity_mw": null,
+    "planned_mw": 99,
+    "status": "under_construction",
+    "announced_date": "2026-06",
+    "expected_completion": "2028",
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "SignalData cites a June 12, 2026 DatacenterDynamics report that Microsoft had broken ground on a 99 MW San Jose data center in Alviso, with completion slated for 2028. The pin is the Alviso neighborhood and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ca/data-centers/santa-clara/",
+        "title": "Data centers in Santa Clara County, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Prologis Silver Creek",
+    "aliases": [
+      "Silver Creek Data Center"
+    ],
+    "operator": "Prologis",
+    "owner": "Prologis",
+    "tenant": null,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "lat": 37.2884,
+    "lon": -121.7849,
+    "capacity_mw": null,
+    "planned_mw": 99,
+    "status": "planned",
+    "announced_date": "2026-07",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid, diesel backup proposed",
+    "utility": null,
+    "acreage": null,
+    "notes": "SignalData cites a July 9, 2026 DatacenterDynamics report of a Prologis plan for a 99 MW, 516,000-square-foot data center at Silver Creek, plus a special-use permit (SP26-016) and a California Energy Commission filing for 44 diesel backup generators. The pin is the Silver Creek neighborhood and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ca/data-centers/santa-clara/",
+        "title": "Data centers in Santa Clara County, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Orchard Parkway",
+    "aliases": [
+      "Microsoft San Jose Data Center 04"
+    ],
+    "operator": "Microsoft",
+    "owner": "Microsoft",
+    "tenant": "Microsoft",
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "lat": 37.395,
+    "lon": -121.9343,
+    "capacity_mw": null,
+    "planned_mw": 97.8,
+    "status": "planned",
+    "announced_date": "2026-10",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "SignalData says the California Energy Commission page and the City of San Jose list still showed a 97.8 MW Microsoft project on Orchard Parkway under review in October 2026. It is separate from the Alviso building already under construction. The pin is Orchard Parkway and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ca/data-centers/santa-clara/",
+        "title": "Data centers in Santa Clara County, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "NorthTown San Jose",
+    "aliases": [
+      "Goodman Innovation Centre San Jose"
+    ],
+    "operator": "Goodman",
+    "owner": "GIC San Jose",
+    "tenant": null,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "state": "CA",
+    "lat": 37.39,
+    "lon": -121.91,
+    "capacity_mw": null,
+    "planned_mw": 97.3,
+    "status": "planned",
+    "announced_date": "2025-11",
+    "expected_completion": "2028",
+    "investment_usd": null,
+    "power_source": "Grid, diesel backup proposed",
+    "utility": null,
+    "acreage": null,
+    "notes": "SignalData cites a November 2025 Baxtel report that Goodman planned two buildings totaling 414,000 square feet and up to 97.3 MW by 2028, and a July 21, 2026 notice that the California Energy Commission will prepare an environmental impact report for 42 diesel backup generators (25-SPPE-02). No street address was in that roundup, so the pin is central north San Jose and is approximate.",
+    "confidence": "low",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ca/data-centers/santa-clara/",
+        "title": "Data centers in Santa Clara County, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Edged Aurora",
+    "aliases": [
+      "Edged Chicago",
+      "ORD01"
+    ],
+    "operator": "Edged",
+    "owner": "Endeavour",
+    "tenant": null,
+    "city": "Aurora",
+    "county": "DuPage",
+    "state": "IL",
+    "lat": 41.807,
+    "lon": -88.241,
+    "capacity_mw": 24,
+    "planned_mw": 96,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid; waterless cooling from ThermalWorks",
+    "utility": "ComEd",
+    "acreage": 65,
+    "notes": "Data Center Dynamics reported on February 27, 2025 that Edged had opened the first 24 MW building of a 96 MW, three-building campus at 2835 Bilter Road in Aurora, on 65 acres. The second phase was described as 72 MW. Edged broke ground in May 2023. Coordinates are that address in DuPage County.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://www.datacenterdynamics.com/en/news/edged-launches-first-phase-of-96mw-chicago-data-center-campus/",
+        "title": "Edged launches first phase of 96MW Chicago campus",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "QTS San Antonio",
+    "aliases": [],
+    "operator": "QTS",
+    "owner": "QTS",
+    "tenant": null,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "state": "TX",
+    "lat": 29.4246,
+    "lon": -98.49514,
+    "capacity_mw": null,
+    "planned_mw": 90,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": 32,
+    "notes": "QTS's location index shows a San Antonio, Texas entry at 32 acres and 90 MW or more. The surrounding labels on the page are jumbled with a Salem Township heading, so the pairing of city and megawatts is less certain than the other QTS rows. The pin is the San Antonio city centroid.",
+    "confidence": "low",
+    "sources": [
+      {
+        "url": "https://q.com/us-locations/",
+        "title": "QTS U.S. locations",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Meta Sarpy",
+    "aliases": [
+      "Meta Springfield",
+      "Meta Papillion"
+    ],
+    "operator": "Meta",
+    "owner": "Meta",
+    "tenant": "Meta",
+    "city": "Springfield",
+    "county": "Sarpy",
+    "state": "NE",
+    "lat": 41.1036,
+    "lon": -96.1434,
+    "capacity_mw": 80,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI estimates 80 MW of current IT power for Meta on Fairview Road in Springfield, Sarpy County, and cites Meta's Sarpy info sheet. Coordinates are a geocode of 14700 Fairview Rd, inside the address range Epoch lists.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Arcola",
+    "aliases": [
+      "Google Sterling Arcola"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Sterling",
+    "county": "Loudoun County",
+    "state": "VA",
+    "lat": 38.94413,
+    "lon": -77.53791,
+    "capacity_mw": 77,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Operating Google building in the Arcola area of Sterling. Epoch AI estimates about 77 MW of IT power and about 93 MW of facility power. Coordinate is the Arcola community and is approximate.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Google Red Oak",
+    "aliases": [
+      "Google Ellis County Red Oak"
+    ],
+    "operator": "Google",
+    "owner": "Google",
+    "tenant": "Google",
+    "city": "Red Oak",
+    "county": "Ellis",
+    "state": "TX",
+    "lat": 32.53763,
+    "lon": -96.79667,
+    "capacity_mw": 77,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": "2023",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Google's Texas page says Red Oak is its second Ellis County data center, announced in 2023, and that the 2025 Texas investment includes further work in Ellis County. Epoch AI estimates 77 MW of current IT power at 330 Austin Boulevard. The pin is that address. Google did not publish a campus megawatt total.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://datacenters.google/locations/texas/",
+        "title": "Google data centers in Texas",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Vantage Santa Clara I",
+    "aliases": [
+      "Vantage CA1"
+    ],
+    "operator": "Vantage Data Centers",
+    "owner": "Vantage Data Centers",
+    "tenant": null,
+    "city": "Santa Clara",
+    "county": "Santa Clara",
+    "state": "CA",
+    "lat": 37.3726,
+    "lon": -121.9737,
+    "capacity_mw": 77,
+    "planned_mw": 77,
+    "status": "operational",
+    "announced_date": "2018",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": "Silicon Valley Power",
+    "acreage": 21,
+    "notes": "SignalData's November 2026 Santa Clara County roundup says Vantage's own page lists six buildings on 21 acres with 77 MW of critical load and three 50 MW substations from Silicon Valley Power. The pin is 2820 Northwestern Parkway, a building associated with this campus.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ca/data-centers/santa-clara/",
+        "title": "Data centers in Santa Clara County, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft SAT40 San Antonio",
+    "aliases": [
+      "Microsoft Lambda Drive"
+    ],
+    "operator": "Microsoft",
+    "owner": "Microsoft",
+    "tenant": "Microsoft",
+    "city": "San Antonio",
+    "county": "Bexar",
+    "state": "TX",
+    "lat": 29.4246,
+    "lon": -98.49514,
+    "capacity_mw": 75,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI lists Microsoft SAT40 at 15000 Lambda Drive with an estimated 75 MW of current IT power. A separate Epoch row for SAT14 at 3545 Wiseman Boulevard is about 47 MW of IT power and is omitted because it was not confirmed to clear 50 MW. The pin is the San Antonio city centroid, not Lambda Drive, and it overlaps other San Antonio entries only because those parcels were not geocoded.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Aligned Northlake",
+    "aliases": [
+      "Aligned Chicago",
+      "ORD-01",
+      "ORD-02"
+    ],
+    "operator": "Aligned Data Centers",
+    "owner": "Aligned Data Centers",
+    "tenant": null,
+    "city": "Northlake",
+    "county": "Cook",
+    "state": "IL",
+    "lat": 41.9135,
+    "lon": -87.9193,
+    "capacity_mw": null,
+    "planned_mw": 72,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid with dual substation service; the company spec sheet says the design is waterless",
+    "utility": null,
+    "acreage": 18.5,
+    "notes": "Aligned's October 2024 ORD-02 spec sheet says the Chicagoland campus at full build covers about 520,000 square feet and about 72 MW of critical load on 18.5 acres. ORD-02 is listed at 501 Northwest Avenue, Northlake, and the sheet header rates that building at 36 MW. The geocoder places the address in a Melrose Park mailing area in Cook County.",
+    "confidence": "high",
+    "sources": [
+      {
+        "url": "https://aligneddc.com/wp-content/uploads/2025/09/ALI_ChicagoIIBldgSpecs241015.pdf",
+        "title": "Aligned Chicago ORD-02 building specifications",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "QTS Fort Worth",
+    "aliases": [],
+    "operator": "QTS",
+    "owner": "QTS",
+    "tenant": null,
+    "city": "Fort Worth",
+    "county": "Tarrant",
+    "state": "TX",
+    "lat": 32.75318,
+    "lon": -97.33275,
+    "capacity_mw": null,
+    "planned_mw": 70,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": 52,
+    "notes": "QTS's location index lists Fort Worth at 52 acres and 70 MW or more. It does not say how much of that is already online. The pin is the Fort Worth city centroid.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://q.com/us-locations/",
+        "title": "QTS U.S. locations",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "CoreWeave Marble",
+    "aliases": [
+      "Core Scientific Marble"
+    ],
+    "operator": "Core Scientific",
+    "owner": "Core Scientific",
+    "tenant": "CoreWeave",
+    "city": "Marble",
+    "county": "Cherokee County",
+    "state": "NC",
+    "lat": 35.17509,
+    "lon": -83.92491,
+    "capacity_mw": 65,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": "2024",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": null,
+    "utility": null,
+    "acreage": null,
+    "notes": "Core Scientific Marble site handed to CoreWeave. Epoch AI cites about 65 MW of billable IT power as of May 2026. A state compilation lists 104 MW. Coordinate is Marble.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/ai-data-centers",
+        "title": "Epoch AI, AI data centers dataset",
+        "retrieved": "2026-11-08"
+      },
+      {
+        "url": "https://signaldata.org/nc/data-centers/",
+        "title": "Data centers in North Carolina, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Stream Goodyear",
+    "aliases": [
+      "Stream Phoenix",
+      "Stream PHX-1"
+    ],
+    "operator": "Stream Data Centers",
+    "owner": null,
+    "tenant": null,
+    "city": "Goodyear",
+    "county": "Maricopa",
+    "state": "AZ",
+    "lat": 33.46723,
+    "lon": -112.38535,
+    "capacity_mw": 64,
+    "planned_mw": null,
+    "status": "operational",
+    "announced_date": null,
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": null,
+    "acreage": null,
+    "notes": "Epoch AI lists Stream Phoenix at 2950 S Litchfield Road in Goodyear with an estimated 64 MW of current IT power. The pin is the Goodyear city centroid, not Litchfield Road. Build-out figures above 64 MW appear in secondary trackers that were not opened.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+        "title": "Epoch AI data centers database CSV",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "name": "Vantage Santa Clara III",
+    "aliases": [
+      "Vantage CA3"
+    ],
+    "operator": "Vantage Data Centers",
+    "owner": "Vantage Data Centers",
+    "tenant": null,
+    "city": "Santa Clara",
+    "county": "Santa Clara",
+    "state": "CA",
+    "lat": 37.384,
+    "lon": -121.974,
+    "capacity_mw": 64,
+    "planned_mw": 64,
+    "status": "operational",
+    "announced_date": "2024-10",
+    "expected_completion": null,
+    "investment_usd": null,
+    "power_source": "Grid",
+    "utility": "Silicon Valley Power",
+    "acreage": null,
+    "notes": "SignalData says Vantage lists this campus at 64 MW, supplied by Silicon Valley Power, and operating as of October 2024. The pin is offset about a kilometer from Vantage Santa Clara I because no street address was published in that roundup.",
+    "confidence": "medium",
+    "sources": [
+      {
+        "url": "https://signaldata.org/ca/data-centers/santa-clara/",
+        "title": "Data centers in Santa Clara County, SignalData",
+        "retrieved": "2026-11-08"
+      }
+    ]
+  }
+]
